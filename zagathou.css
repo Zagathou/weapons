@@ -55,7 +55,7 @@ body{
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: Tahoma, Arial, system-ui, sans-serif;
+  font-family: "Nunito", Tahoma, Arial, system-ui, sans-serif;
   font-size: 12px;
   line-height: 1.55;
   letter-spacing: 0.1px;
@@ -423,3 +423,16 @@ hr{ border:0; height:1px; background: rgba(255,255,255,0.10); margin: 16px 0; }
   background: color-mix(in srgb, var(--elem-none) 5%, rgba(255,255,255,0.02));
 }
 
+/* ---------- TFD footer (shared on freyna.org / modules / weapons) ---------- */
+.tfd-footer{ max-width:900px; margin:24px auto 0; padding:8px 12px 24px; text-align:center; color:var(--tfd-muted, rgba(255,255,255,0.62)); font-family:"Nunito", Tahoma, Arial, sans-serif; font-size:13px; line-height:1.55; }
+.tfd-footer p{ margin:0 0 6px; }
+.tfd-footer h2{ font-family:"Comfortaa", Tahoma, Arial, sans-serif; font-size:16px; color:var(--tfd-accent, #03ff36); margin:0 0 10px; }
+.tfd-contact{ text-align:left; margin:0 0 14px; padding:16px; background:rgba(255,255,255,0.04); border:1px solid rgba(255,255,255,0.08); border-radius:16px; color:var(--tfd-text, rgba(255,255,255,0.88)); font-size:14px; }
+.tfd-contact dl{ margin:0; display:grid; grid-template-columns:max-content 1fr; gap:4px 12px; }
+.tfd-contact dt{ color:var(--tfd-muted, rgba(255,255,255,0.62)); font-weight:700; }
+.tfd-contact dd{ margin:0; min-width:0; overflow-wrap:anywhere; word-break:break-word; }
+.tfd-contact .sid{ font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:12px; }
+.tfd-pages p{ margin:0 0 4px; font-weight:700; }
+.tfd-pages ul{ list-style:none; margin:0 0 10px; padding:0; display:flex; flex-wrap:wrap; justify-content:center; gap:6px 14px; }
+.tfd-footer a{ color:var(--tfd-accent, #03ff36); }
+@media (max-width:600px){ .tfd-contact dl{ grid-template-columns:1fr; } .tfd-contact dd{ margin-bottom:6px; } }
