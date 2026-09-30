@@ -2,7 +2,7 @@
 
 > All 43 Ultimate and 11 Transcendent weapons of The First Descendant with Feature, Unique Ability (max level values) and Level 100 stats – official NEXON data.
 
-Page: https://zagathou.github.io/weapons/
+Page: https://weapons.freyna.org/
 Sources: https://tfd.nexon.com/en/library/weapons?tier=Tier3 , https://tfd.nexon.com/en/library/weapons?tier=Tier4 , https://open.api.nexon.com/static/tfd/meta/en/weapon.json
 Notation [x]/[+] exactly as in the official data. Ultimate Unique Ability values at Unique Ability Level 4 (max).
 
@@ -744,7 +744,7 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 ## TFD Pages
 - Freyna.ORG: https://freyna.org/
 - Modules: https://modules.freyna.org/
-- Weapons: https://zagathou.github.io/weapons/
+- Weapons: https://weapons.freyna.org/
 - descendant.gg: https://descendant.gg/
 
 These webpages are optimized for Non-Agentic Artificial Intelligence and easy to read.
