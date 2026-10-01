@@ -790,6 +790,7 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - Modules: https://modules.freyna.org/
 - Weapons: https://weapons.freyna.org/
 - Raven: https://raven.freyna.org/
+- Nell: https://nell.freyna.org/
 - descendant.gg: https://descendant.gg/
 
 All values: max level (Descendants Lv 40, weapons Lv 100 at 4 stars / Unique Ability Level 4, modules at max enhancement level).
