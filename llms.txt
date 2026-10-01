@@ -3,6 +3,7 @@
 > All 43 Ultimate and 11 Transcendent weapons of The First Descendant with Feature, Unique Ability (max level values) and Level 100 stats – official NEXON data.
 
 Page: https://weapons.freyna.org/
+All values: max level – weapons at Lv 100 with 4 stars (Unique Ability Level 4 = max). Transcendent weapons: Lv 100 stats; no per-star Unique Ability values are published in the official library.
 Sources: https://tfd.nexon.com/en/library/weapons?tier=Tier3 , https://tfd.nexon.com/en/library/weapons?tier=Tier4 , https://open.api.nexon.com/static/tfd/meta/en/weapon.json
 Notation [x]/[+] exactly as in the official data. Ultimate Unique Ability values at Unique Ability Level 4 (max).
 
@@ -10,18 +11,18 @@ Notation [x]/[+] exactly as in the official data. Ultimate Unique Ability values
 - Type: Sniper Rifle | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211093001
 - Feature: It was made to commemorate Neil Neldor, the legendary sniper nicknamed the Nightmare Reaper. A specialized sniper rifle that uses particularly lethal bullets.
-- Unique Ability: Nightmare Reaper (Unique Ability Level 4 (max))
+- Unique Ability: Nightmare Reaper (Unique Ability Level 4 = 4 stars (max))
   - Aiming at a target engages Lock-On.
   - Lock-On automatically aims at the target's Weak Point.
   - Attacking an enemy's Weak Point in Lock-On grants increased Firearm ATK and Weak Point Damage.
 - Lock-On: Aim Time 0.5s; Firearm ATK 458%[x]; Weak Point Damage 300%[+]
-- Stat Info (Level 100): Firearm ATK 114,206; Fire Rate 66; Weak Point Damage 2.76; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 44.444; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.5; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Crush 10; Penetration 100; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 114,206; Fire Rate 66; Weak Point Damage 2.76; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 44.444; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.5; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Crush 10; Penetration 100; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.1
 
 ## Albion Cavalry Gun
 - Type: Machine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211053002
 - Feature: An enhanced version of the machine gun once used by the Albion Special Cavalry. It has been modified to improve mobility.
-- Unique Ability: Cavalry (Unique Ability Level 4 (max))
+- Unique Ability: Cavalry (Unique Ability Level 4 = 4 stars (max))
   - On hit, inflicts Mark on the enemy. On hitting an enemy inflicted with Mark, increases Critical Hit Rate and deals Additional Damage.
   - Each Critical Hit Ricochets to the nearby enemy with the highest remaining HP and Stuns the enemies hit by the Ricochet.
   - If a Ricochet lands a Critical Hit, creates an additional Ricochet.
@@ -32,46 +33,46 @@ Notation [x]/[+] exactly as in the official data. Ultimate Unique Ability values
 - Stun: Duration 4.0s
 - Frosty: Chill Resistance -10%[x]
 - Horseshoe: Firing Duration Every 0.1s; Max Stacks 10; Movement Speed When Not Aiming 50[+]; Movement Speed per Stack while Firing 50[+]; Movement Speed While Aiming 50[+]; Movement Speed per Stack while Aiming 50[+]
-- Stat Info (Level 100): Firearm ATK 13,469; Chill ATK 8,217; Fire Rate 451; Weak Point Damage 1; Effective Range (Drop-off start) 4,500; Effective Range (Drop-off end) 7,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 77.777; Rounds per Magazine 75; Reload Time 2.5; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Firearm Critical Hit Rate 7; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 5.88; Multi-Hit Damage 0.45
+- Stat Info (Level 100, max): Firearm ATK 13,469; Chill ATK 8,217; Fire Rate 451; Weak Point Damage 1; Effective Range (Drop-off start) 4,500; Effective Range (Drop-off end) 7,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 77.777; Rounds per Magazine 75; Reload Time 2.5; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Firearm Critical Hit Rate 7; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 5.88; Multi-Hit Damage 0.45
 
 ## Ancient Knight
 - Type: Assault Rifle | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211063004
 - Feature: An assault rifle used by the early Descendants during the onset of the Apocalypse,
 created by modifying holy relics guarded by the Knights of Humanity into the form of a firearm.
-- Unique Ability: Descending Judgment (Unique Ability Level 4 (max))
+- Unique Ability: Descending Judgment (Unique Ability Level 4 = 4 stars (max))
   - When reloading in midair, grants Float.
   - When multi-hit triggers in midair, grants Atonement.
   - Float and Atonement are removed when touching the ground.
 - Float: Effective Range (Drop-off start) 130%[x]; Effective Range (Drop-off end) 130%[x]; HP Recovery Chance on Hit 10%; Health Recovery Amount 2.0%
 - Atonement: Max Stacks 10; Multi-Hit Damage 7.7[+]; Multi-Hit Damage per Stack 7.7[+]
-- Stat Info (Level 100): Firearm ATK 16,318; Fire ATK 5,875; Fire Rate 521; Weak Point Damage 1; Effective Range (Drop-off start) 3,300; Effective Range (Drop-off end) 5,800; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.888; Aimed Shot Accuracy 91.111; Rounds per Magazine 27; Reload Time 1.8; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.54
+- Stat Info (Level 100, max): Firearm ATK 16,318; Fire ATK 5,875; Fire Rate 521; Weak Point Damage 1; Effective Range (Drop-off start) 3,300; Effective Range (Drop-off end) 5,800; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.888; Aimed Shot Accuracy 91.111; Rounds per Magazine 27; Reload Time 1.8; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.54
 
 ## A-TAMS
 - Type: Sniper Rifle | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211093003
 - Feature: A powerful anti-materiel sniper rifle that condenses the user's Arche to accelerate bullets.
-- Unique Ability: Electronic Arche Infusion (Unique Ability Level 4 (max))
+- Unique Ability: Electronic Arche Infusion (Unique Ability Level 4 = 4 stars (max))
   - When aiming, continuously consumes MP to infuse Arche and fill the gauge.
   - When firing, deals increased damage based on the charge of the gauge.
 - Basic Information: MP Cost 0.5 MP per 0.1s; Max Gauge 100%; Gauge Increase 5.0% per 0.1s; Additional Max Damage Firearm Damage x 260%
-- Stat Info (Level 100): Firearm ATK 228,622; Fire Rate 52; Weak Point Damage 1.65; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 27.777; Aimed Shot Accuracy 100; Rounds per Magazine 3; Reload Time 2; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Penetration 100; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 228,622; Fire Rate 52; Weak Point Damage 1.65; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 27.777; Aimed Shot Accuracy 100; Rounds per Magazine 3; Reload Time 2; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Penetration 100; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.1
 
 ## Blue Beetle
 - Type: Scout Rifle | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211083002
 - Feature: The Arche Reactor was developed for applying the newest technologies and is proof of Albion's technological prowess. It is loaded with a special device that aids in battle through Arche Efflux.
-- Unique Ability: Arcane Wave (Unique Ability Level 4 (max))
+- Unique Ability: Arcane Wave (Unique Ability Level 4 = 4 stars (max))
   - When using a Fusion skill, grants self the unique effect Arcane Energy with a set chance. When using a Singular skill, grants self the unique effect Purification with a set chance.
 - Arcane Energy: Trigger Rate 100%; Duration 10s; Skill Critical Hit Rate 115%[x]
 - Purification: Trigger Rate 100%; Duration 1s; Remove Debuff 100%
-- Stat Info (Level 100): Firearm ATK 29,468; Electric ATK 26,816; Fire Rate 200; Weak Point Damage 3.93; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 100; Rounds per Magazine 16; Reload Time 2; Sprint Speed 800; Movement Speed 520; Movement Speed While Firing 340; Movement Speed While Aiming 250; Crush 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 29,468; Electric ATK 26,816; Fire Rate 200; Weak Point Damage 3.93; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 100; Rounds per Magazine 16; Reload Time 2; Sprint Speed 800; Movement Speed 520; Movement Speed While Firing 340; Movement Speed While Aiming 250; Crush 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.1
 
 ## Clairvoyance
 - Type: Beam Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211123002
 - Feature: A special weapon crafted with the Colossus Stunning Beauty's components and the Eye of Judgement. The beam it emits when fired applies many additional effects.
-- Unique Ability: The Thing Beyond (Unique Ability Level 4 (max))
+- Unique Ability: The Thing Beyond (Unique Ability Level 4 = 4 stars (max))
   - Hitting an enemy with a Stage 3 Beam inflicts Void Gaze on the enemy.
   - At max stacks of Void Gaze, inflicts additional Appalled Calling and Chasm.
   - Appalled Calling is considered the same as Frostbite in some mechanics.
@@ -83,36 +84,36 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Appalled Calling: Duration 10s; Action Speed -10%[+]
 - Chasm: Duration 10s; Chill Resistance -40%[x]
 - Frozen Spear: Max Stacks 5; Damage per Projectile Firearm Damage x 130%; Additional Damage Projectile Damage x 150%
-- Stat Info (Level 100): Firearm ATK 13,362; Chill ATK 13,362; Fire Rate 400; Weak Point Damage 1.45; ATK Drop-off Modifier 1; Max Range 3,500; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 40; Reload Time 2.2; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 420; Movement Speed While Aiming 330; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 6.67; Multi-Hit Damage 0.51
+- Stat Info (Level 100, max): Firearm ATK 13,362; Chill ATK 13,362; Fire Rate 400; Weak Point Damage 1.45; ATK Drop-off Modifier 1; Max Range 3,500; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 40; Reload Time 2.2; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 420; Movement Speed While Aiming 330; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 6.67; Multi-Hit Damage 0.51
 
 ## Crime and Punishment
 - Type: Balanced Melee Weapon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/221133004
 - Feature: A melee weapon featuring two lightweight straight swords. It is capable of harnessing the rotational kinetic energy of the blades to either amplify power or unleash a rapid barrage of deadly strikes.
-- Unique Ability: Final Verdict (Unique Ability Level 4 (max))
+- Unique Ability: Final Verdict (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, Judgment Gauge increases. When Judgment Gauge increases, Condemnation Stage also increases. When the Special Attack button is pressed, the caster uses Final Verdict to spin forward and deal damage to enemies within range. When Final Verdict hits, an additional attack occurs, and damage increases proportionally to Condemnation Stage. When Final Verdict hits, Execution is gained in proportion to Condemnation Stage. While Execution is active, Normal Attacks consume Execution to deal additional damage.
 - Final Verdict: Damage Melee Weapon Damage x 105.0%; Damage Increase per Condemnation Stage 75.0%; Condemnation Stage Cost Stage 2
 - Condemnation Stage: Min Stage Stage E; Max Stage Stage S; Time to Trigger 10s
 - Execution: Damage Melee Weapon Damage x 12.5%; Max Owned 100; Amount Acquired 10; Additional Gain for Condemnation Stage 2
 - Special Attack Gauge: Consumed when Used -100.0
-- Stat Info (Level 100): Melee Weapon ATK 233,336; Melee Weapon Fire ATK 158,436; Attack Speed 0.459; Melee Weapon Critical Hit Rate 5; Melee Weapon Critical Hit Damage 1; Additional Attack Damage 1.2; Melee Weapon Piercing Rate 0.06; Melee Weapon Min. Piercing Rate 0.4; Burst 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 610; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 10; Maintain Block Gauge Cost 1.7; Block Gauge Recovery Start Time 3; Block Gauge Recovery Amount 40; Block Efficiency 0.3; Max Special Attack Gauge 100; Special Attack Gauge Recovery Start Time 0; Special Attack Gauge Recovery Amount 50; Attribute Status Effect Trigger Rate 20
+- Stat Info (Level 100, max): Melee Weapon ATK 233,336; Melee Weapon Fire ATK 158,436; Attack Speed 0.459; Melee Weapon Critical Hit Rate 5; Melee Weapon Critical Hit Damage 1; Additional Attack Damage 1.2; Melee Weapon Piercing Rate 0.06; Melee Weapon Min. Piercing Rate 0.4; Burst 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 610; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 10; Maintain Block Gauge Cost 1.7; Block Gauge Recovery Start Time 3; Block Gauge Recovery Amount 40; Block Efficiency 0.3; Max Special Attack Gauge 100; Special Attack Gauge Recovery Start Time 0; Special Attack Gauge Recovery Amount 50; Attribute Status Effect Trigger Rate 20
 
 ## Deus Ex Manus
 - Type: Power Melee Weapon | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/221133002
 - Feature: A melee weapon with a built-in Vibration Energy Collector that can store intense kinetic energy. When attacking, it can release all the stored vibration energy in a single burst.
-- Unique Ability: Liberation (Unique Ability Level 4 (max))
+- Unique Ability: Liberation (Unique Ability Level 4 = 4 stars (max))
   - On successful Normal attack, grants the unique effects Liberation and Resistance to self. Pressing the Special Attack button while Liberation is active removes Liberation, and strikes down forward with the weapon to damage to all enemies within range. Increases Damage as the number of Liberation stacks increase.
 - Basic Information: Damage Melee Weapon Damage x 256.0%
 - Liberation: Duration No limit; Max Stacks 4; Damage per Stack Melee Weapon Damage x 80.0%
 - Resistance: Duration 3s; Decreases Incoming DMG -10.5%[+]
-- Stat Info (Level 100): Melee Weapon ATK 523,934; Melee Weapon Chill ATK 157,180; Attack Speed 0.68; Melee Weapon Critical Hit Rate 50; Melee Weapon Critical Hit Damage 2; Additional Attack Damage 0.1; Melee Weapon Piercing Rate 0.02; Melee Weapon Min. Piercing Rate 0.7; Crush 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 580; Sprint Speed 1,040; Max Block Gauge 300; Start Block Gauge Cost 10; Maintain Block Gauge Cost 2.2; Block Gauge Recovery Start Time 2.75; Block Gauge Recovery Amount 40; Block Efficiency 0.5; Attribute Status Effect Trigger Rate 25
+- Stat Info (Level 100, max): Melee Weapon ATK 523,934; Melee Weapon Chill ATK 157,180; Attack Speed 0.68; Melee Weapon Critical Hit Rate 50; Melee Weapon Critical Hit Damage 2; Additional Attack Damage 0.1; Melee Weapon Piercing Rate 0.02; Melee Weapon Min. Piercing Rate 0.7; Crush 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 580; Sprint Speed 1,040; Max Block Gauge 300; Start Block Gauge Cost 10; Maintain Block Gauge Cost 2.2; Block Gauge Recovery Start Time 2.75; Block Gauge Recovery Amount 40; Block Efficiency 0.5; Attribute Status Effect Trigger Rate 25
 
 ## Divine Punishment
 - Type: Assault Rifle | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211063002
 - Feature: A firearm the Magisters reverse engineered from a weapon they procured from the Order of Truth. Its Arcane power, not yet fully understood even by the Magisters, can help tremendously in battle.
-- Unique Ability: Prayer (Unique Ability Level 4 (max))
+- Unique Ability: Prayer (Unique Ability Level 4 = 4 stars (max))
   - When using a Healing or Charging type skill, grants Praise to self.
   - While Praise is active, landing a Multi-Hit has a chance to trigger Purifying Blaze on the target to deal damage.
   - When triggered, Purifying Blaze triggers Multi-Hit.
@@ -121,13 +122,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Purifying Blaze: Trigger Condition 3 times; Damage Firearm Damage x 620%; Additional Damage per Praise Stack Firearm Damage x 500%
 - Praise: Duration 15s; Max Stacks 4; Skill Cooldown -6.0%[+]; Skill Cooldown per Stack -6.0%[+]
 - Warmth: Effect Apply Range Radius 20m; Duration 15s; All Attribute Resistance 30.0%[x]; Incoming Damage Modifier -10.0%[+]; HP Recovery Modifier 0.10[+]; Shield Recovery Modifier 0.10[+]
-- Stat Info (Level 100): Firearm ATK 10,624; Fire ATK 9,031; Fire Rate 705; Weak Point Damage 1.56; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 80; Aimed Shot Accuracy 88.888; Rounds per Magazine 35; Reload Time 1.55; Sprint Speed 800; Movement Speed 580; Movement Speed While Firing 400; Movement Speed While Aiming 310; Pierce 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 3.85; Multi-Hit Damage 0.9
+- Stat Info (Level 100, max): Firearm ATK 10,624; Fire ATK 9,031; Fire Rate 705; Weak Point Damage 1.56; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 80; Aimed Shot Accuracy 88.888; Rounds per Magazine 35; Reload Time 1.55; Sprint Speed 800; Movement Speed 580; Movement Speed While Firing 400; Movement Speed While Aiming 310; Pierce 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 3.85; Multi-Hit Damage 0.9
 
 ## E-Buster
 - Type: Submachine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211043003
 - Feature: A firearm designed to harness the increase in entropy caused by kinetic energy as usable energy. However, as that chaos cannot yet be fully understood, it is limited by highly inefficient energy conversion.
-- Unique Ability: Entropy Overlap (Unique Ability Level 4 (max))
+- Unique Ability: Entropy Overlap (Unique Ability Level 4 = 4 stars (max))
   - When using an Electric skill, grants Entropy Overlap to self.
   - While Entropy Overlap is active, using a Tracking Projectile type skill grants Entropy Conversion to self and grants Entropy Energy Round.
   - While Entropy Energy Rounds are available, firing a firearm consumes Entropy Energy Rounds to deal additional damage.
@@ -135,13 +136,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Entropy Overlap: Duration 15s
 - Entropy Conversion: Electric Skill Power Boost Ratio 17%[+]; Electric Skill Power Boost Ratio per Stack 16%[+]; Duration 15s; Max Stacks 5
 - Entropy Energy Round: Damage Firearm Damage x 880%; Bullets Acquired 50; Max Ammo Capacity 200
-- Stat Info (Level 100): Firearm ATK 18,999; Fire Rate 769; Weak Point Damage 1; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 66.666; Aimed Shot Accuracy 74.444; Rounds per Magazine 33; Reload Time 1.32; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 3.33; Multi-Hit Damage 0.6
+- Stat Info (Level 100, max): Firearm ATK 18,999; Fire Rate 769; Weak Point Damage 1; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 66.666; Aimed Shot Accuracy 74.444; Rounds per Magazine 33; Reload Time 1.32; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 3.33; Multi-Hit Damage 0.6
 
 ## Enduring Legacy
 - Type: Machine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211053001
 - Feature: A firearm that was reverse engineered from a weapon seized by Vulgus during the apocalypse. After many improvements, it can counter many different attributes. It is particularly effective when used for the Fire Arche ability.
-- Unique Ability: Craftsmanship (Unique Ability Level 4 (max))
+- Unique Ability: Craftsmanship (Unique Ability Level 4 = 4 stars (max))
   - Maintaining fire of a firearm grants Quenching at regular intervals.
   - At max stacks of Quenching, grants Incendiary Shot to self.
   - While Incendiary Shot is active, an Explosive Bullet is fired after a certain number of shots.
@@ -152,13 +153,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Incendiary Shot: Fire ATK 500%[x]; Explosive Bullet Firing Interval x5 Shots; Flame Wound Additional Damage 60%
 - Explosive Bullet: Range Radius 2.0m; Damage Firearm Damage x 525%
 - Flame Wound: Duration 15s; Fire Resistance -20%[x]
-- Stat Info (Level 100): Firearm ATK 13,155; Fire ATK 6,578; Fire Rate 571; Weak Point Damage 1.85; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.55; Max Range 15,000; Hip Fire Accuracy 61.111; Aimed Shot Accuracy 66.666; Rounds per Magazine 115; Reload Time 2.7; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Crush 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2.3; Attribute Status Effect Trigger Rate 4.76; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 13,155; Fire ATK 6,578; Fire Rate 571; Weak Point Damage 1.85; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.55; Max Range 15,000; Hip Fire Accuracy 61.111; Aimed Shot Accuracy 66.666; Rounds per Magazine 115; Reload Time 2.7; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Crush 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2.3; Attribute Status Effect Trigger Rate 4.76; Multi-Hit Damage 0.1
 
 ## ERASER
 - Type: Scout Rifle | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211083005
 - Feature: A firearm developed by the Red Arms Medical Corps that can discharge special enzymes to remove organic matter from the battlefield.
-- Unique Ability: Erase (Unique Ability Level 4 (max))
+- Unique Ability: Erase (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, grants Analyze.
   - Analyze converts to Degrade at max stacks.
   - While Degrade is active, firing creates Degrading Enzymes at the hit location.
@@ -166,36 +167,36 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Analyze: Acquired on Enemy Hit 5; Max Stacks 10
 - Degrading Enzyme: Max Number of Creations x50; Range Radius 15m; Duration 5.0s; Continuous Damage Interval 0.25s; Damage Firearm Damage x 350%
 - Corrosion: Duration 5s; Toxic Weapon Resistance -20%[x]
-- Stat Info (Level 100): Firearm ATK 29,303; Toxic ATK 16,117; Fire Rate 240; Weak Point Damage 3.55; Effective Range (Drop-off start) 4,200; Effective Range (Drop-off end) 7,200; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 92.222; Rounds per Magazine 18; Reload Time 2.2; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Crush 10; Firearm Critical Hit Rate 18; Firearm Critical Hit Damage 1.3; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.34
+- Stat Info (Level 100, max): Firearm ATK 29,303; Toxic ATK 16,117; Fire Rate 240; Weak Point Damage 3.55; Effective Range (Drop-off start) 4,200; Effective Range (Drop-off end) 7,200; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 92.222; Rounds per Magazine 18; Reload Time 2.2; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Crush 10; Firearm Critical Hit Rate 18; Firearm Critical Hit Damage 1.3; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.34
 
 ## EXCAVA
 - Type: Assault Rifle | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211063003
 - Feature: A powerful composite rifle that gathers power generated by an electronic firing mechanism to fire voltage-accelerated energy grenades.
-- Unique Ability: Voltage Accel Energy Grenade Launcher (Unique Ability Level 4 (max))
+- Unique Ability: Voltage Accel Energy Grenade Launcher (Unique Ability Level 4 = 4 stars (max))
   - Hitting an enemy grants the unique effect Voltage Charge. When Voltage Charge reaches max stacks, it changes to the unique effect Energy Grenade. While Energy Grenade is active, fires an Energy Grenade when shooting while aiming, which deals increased damage based on the number of stacks. Hitting an enemy with the Energy Grenade inflicts Voltage Accumulation.
 - Voltage Charge: Duration 5.0s; Max Stacks 15
 - Energy Grenade: Duration No limit; Max Stacks 3; Firearm Critical Hit Rate 5[+]; Firearm Critical Hit Rate per Stack 5[+]
 - While aiming: Additional Damage Firearm DMG x Number of Stacks x 220%; Ammo Cost per shot -4
 - Voltage Accumulation: Duration 5s; Max Stacks 3; Electric Resistance -3.0%[x]; Electric Resistance per Stack -4%[x]
-- Stat Info (Level 100): Firearm ATK 14,937; Electric ATK 12,249; Fire Rate 588; Weak Point Damage 1.4; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 86.666; Aimed Shot Accuracy 90; Rounds per Magazine 36; Reload Time 2; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.38
+- Stat Info (Level 100, max): Firearm ATK 14,937; Electric ATK 12,249; Fire Rate 588; Weak Point Damage 1.4; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 86.666; Aimed Shot Accuracy 90; Rounds per Magazine 36; Reload Time 2; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.38
 
 ## Executor
 - Type: Shotgun | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211033002
 - Feature: A weapon created after researching the weapons and components of the intercepted Colossus Executioner. The higher the user's Hit Rate, the better this weapon will perform.
-- Unique Ability: Impending Judgement (Unique Ability Level 4 (max))
+- Unique Ability: Impending Judgement (Unique Ability Level 4 = 4 stars (max))
   - On hitting the enemy with all bullets, grants the unique ability Executor's Exaltation.
   - At the highest stage, increases Weak Point Damage on hit and inflicts Electrocution on the target enemy.
 - Executor's Exaltation: Duration 5s; Max Stacks 3; Accuracy 10%[x]; Accuracy per Stack 5%[x]; Firearm Critical Hit Rate 33[+]; Firearm Critical Hit Rate per Stack 33[+]; Firearm Critical Hit Damage 30[+]; Firearm Critical Hit DMG per Stack 30[+]; Fire Rate -0.05s[+]; Fire Rate per Stack -0.05s[+]; Weak Point Damage at Max Stacks 20%[x]
 - Electrocution: Duration 4.0s; Damage Interval 0.5s; Additional Damage Firearm Damage x 100%; DEF -3%[x]
-- Stat Info (Level 100): Firearm ATK 7,722; Fire Rate 109; Shell Capacity 15; Weak Point Damage 1; Effective Range (Drop-off start) 900; Effective Range (Drop-off end) 2,200; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 38.888; Aimed Shot Accuracy 55.555; Rounds per Magazine 14; Reload Time 1.85; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 1.33; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 7,722; Fire Rate 109; Shell Capacity 15; Weak Point Damage 1; Effective Range (Drop-off start) 900; Effective Range (Drop-off end) 2,200; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 38.888; Aimed Shot Accuracy 55.555; Rounds per Magazine 14; Reload Time 1.85; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 1.33; Multi-Hit Damage 0.1
 
 ## Exterminator
 - Type: Launcher | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211103005
 - Feature: A multiple Rocket Launcher with special Explosive Rounds that can penetrate heavy armor. Its built-in, optimal auto-aiming system scans and targets heavily armored enemies, then fires rockets.
-- Unique Ability: Exterminate! (Unique Ability Level 4 (max))
+- Unique Ability: Exterminate! (Unique Ability Level 4 = 4 stars (max))
   - When holding aim, automatically designates targets on the screen.
   - When firing, fires Explosive Rounds at the targeted enemies.
   - Explosive Rounds trigger Multi-Hits.
@@ -204,13 +205,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Explosive Rounds: Damage Firearm Damage x 75.5%
 - Razor Claw's Carapace Hull, Steel Pincer's Armored Carapace: Additional Damage Firearm Damage x 65.7%
 - Cluster Sac, Cluster Tunnel, and Assault Ship: Additional Damage Firearm Damage x 1051.2%
-- Stat Info (Level 100): Explosive ATK 168,776; Fire ATK 138,397; Fire Rate 50; Explosion ATK Drop-off Range 0.45; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 3.2; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 33.33; Launcher Explosion Radius 500; Multi-Hit Damage 0.19
+- Stat Info (Level 100, max): Explosive ATK 168,776; Fire ATK 138,397; Fire Rate 50; Explosion ATK Drop-off Range 0.45; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 3.2; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 33.33; Launcher Explosion Radius 500; Multi-Hit Damage 0.19
 
 ## Eye of the Typhoon
 - Type: Beam Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211123005
 - Feature: This new weapon, equipped with a small, circular engine called the Typhoon, utilizes a special coil to generate its own electromagnetic force. The generated electromagnetic force gradually accumulates within the Typhoon engine, ready to be released when needed.
-- Unique Ability: Typhoon (Unique Ability Level 4 (max))
+- Unique Ability: Typhoon (Unique Ability Level 4 = 4 stars (max))
   - Press the aim button to switch between Typhoon Mode and Storm Mode. Storm Mode can only be activated when there is at least 1 Typhoon Energy.
   - Typhoon Mode
   - Automatically targets enemies on screen.
@@ -222,13 +223,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Basic Information: Max Typhoon Energy Capacity 150
 - Typhoon Mode: Applied Target 8; Typhoon Energy Acquired 2 per 1 hits
 - Storm Mode: Typhoon Energy Consumed 1; Additional Damage Firearm Damage x 303.0%
-- Stat Info (Level 100): Firearm ATK 13,364; Electric ATK 6,919; Fire Rate 375; Weak Point Damage 1; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 38; Reload Time 2.05; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Pierce 10; Firearm Critical Hit Rate 35; Firearm Critical Hit Damage 1.72; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.11
+- Stat Info (Level 100, max): Firearm ATK 13,364; Electric ATK 6,919; Fire Rate 375; Weak Point Damage 1; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 38; Reload Time 2.05; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Pierce 10; Firearm Critical Hit Rate 35; Firearm Critical Hit Damage 1.72; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.11
 
 ## Fallen Hope
 - Type: Assault Rifle | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211063001
 - Feature: A firearm with a poison effect so potent it can crush all the enemy's remaining hope. Fortunately, it does not affect the wielder.
-- Unique Ability: Perdition (Unique Ability Level 4 (max))
+- Unique Ability: Perdition (Unique Ability Level 4 = 4 stars (max))
   - Using a Toxic skill grants Toxin Aggregation to self.
   - While Toxin Aggregation is active, using a Ground DoT type skill grants Toxin Discharge to self.
   - While Toxin Discharge is active, hitting an enemy has a chance to activate Perdition on the target, dealing additional damage and inflicting Poison on enemies within range.
@@ -240,13 +241,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Perdition: Trigger Rate 40%; Damage Range Radius 4.0m; Damage Firearm Damage x 390%; Damage Increase per Poison Stack Firearm Damage x 140%; Max Poison Stacks 4; Damage Increase per Toxin Discharge Stack Firearm Damage x 70%
 - Explosion: Trigger Rate 50%; Damage Range Radius 4.0m; Damage Firearm Damage x 80%
 - Poison: Duration 5s; Damage Interval 0.5s; Additional Damage Firearm Damage x 15%
-- Stat Info (Level 100): Firearm ATK 12,813; Toxic ATK 12,429; Fire Rate 600; Weak Point Damage 1.2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,000; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 35; Reload Time 1.7; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 12; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 4.55; Multi-Hit Damage 1
+- Stat Info (Level 100, max): Firearm ATK 12,813; Toxic ATK 12,429; Fire Rate 600; Weak Point Damage 1.2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,000; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 35; Reload Time 1.7; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 12; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 4.55; Multi-Hit Damage 1
 
 ## Frenzied Locomotive
 - Type: Machine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211053003
 - Feature: A machine gun that achieves an increased rate of fire by heating its specially coated barrel. It was given a somewhat aggressive name because it relentlessly fires bullets until it reaches a critical temperature that triggers its safety mechanism.
-- Unique Ability: Sprint Instinct (Unique Ability Level 4 (max))
+- Unique Ability: Sprint Instinct (Unique Ability Level 4 = 4 stars (max))
   - Firing applies Preheating. Shots are fired once Preheating is completed.
   - Each shot grants Unleashed Frenzy and increases the Overheat Gauge.
   - When firing from the ground, grants Additional Damage proportional to the number of Unleashed Frenzy stacks.
@@ -259,13 +260,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Unleashed Frenzy: Max Stacks 100; Multi-Hit Chance Increase 1.0%[+]
 - Overheat Gauge Decrease Condition: Multi-Hit Triggered -0.045%; Weak Point Hit -0.05%; Destroy Colossus Parts -30%
 - Overheating: Reactivation Cooldown 10s
-- Stat Info (Level 100): Firearm ATK 17,631; Fire Rate 857; Weak Point Damage 1; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 44.444; Aimed Shot Accuracy 46.666; Rounds per Magazine 100; Reload Time 2.6; Sprint Speed 800; Movement Speed 420; Movement Speed While Firing 250; Movement Speed While Aiming 150; Crush 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.36
+- Stat Info (Level 100, max): Firearm ATK 17,631; Fire Rate 857; Weak Point Damage 1; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 44.444; Aimed Shot Accuracy 46.666; Rounds per Magazine 100; Reload Time 2.6; Sprint Speed 800; Movement Speed 420; Movement Speed While Firing 250; Movement Speed While Aiming 150; Crush 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 4.35; Multi-Hit Damage 0.36
 
 ## FrostWatcher
 - Type: Scout Rifle | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211083004
 - Feature: A scout rifle that fires specialized cold bullets. When shooting at an enemy from a distance, the coolant freezes completely, maximizing the Chill effect.
-- Unique Ability: Subzero Watcher (Unique Ability Level 4 (max))
+- Unique Ability: Subzero Watcher (Unique Ability Level 4 = 4 stars (max))
   - On landing a Critical Hit on an enemy at a certain distance, the unique ability Cold Surveillance is applied to the target.
   - Hitting the Weak Point of an enemy at a certain distance grants self the unique effect Subzero Sensation.
   - Defeating an enemy grants self the unique effect Chill Synchronization.
@@ -273,13 +274,13 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Cold Surveillance: Trigger Rate 100%; Trigger Distance 12.5m or more; Duration 7s; Max Stacks 3; Chill Resistance -10.0%[x]; Chill Resistance per Stack -5.0%[x]
 - Subzero Sensation: Trigger Rate 30.0%; Trigger Distance 12.5m or more; Duration 7.0s; Chill Skill Power Boost Ratio 32%[+]
 - Chill Synchronization: Duration 3s
-- Stat Info (Level 100): Firearm ATK 45,777; Chill ATK 22,889; Fire Rate 230; Weak Point Damage 2.81; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 92.222; Rounds per Magazine 21; Reload Time 2.15; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Crush 10; Firearm Critical Hit Rate 6; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.34
+- Stat Info (Level 100, max): Firearm ATK 45,777; Chill ATK 22,889; Fire Rate 230; Weak Point Damage 2.81; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 92.222; Rounds per Magazine 21; Reload Time 2.15; Sprint Speed 800; Movement Speed 530; Movement Speed While Firing 350; Movement Speed While Aiming 260; Crush 10; Firearm Critical Hit Rate 6; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.34
 
 ## Greg's Reversed Fate
 - Type: Tactical Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211073002
 - Feature: The firearm once used by the Vulgus Commander Greg.
-- Unique Ability: Shaping Destiny (Unique Ability Level 4 (max))
+- Unique Ability: Shaping Destiny (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, grants Ready to Bombard.
   - At max stacks of Ready to Bombard, hitting an enemy unleashes Bombardment around the enemy's location.
   - Bombardment is affected by Multi-Hit.
@@ -289,7 +290,7 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Ready to Bombard: Duration 10s; Max Stacks 10
 - Bombardment: Damage Range Radius 5.0m; Bombardment Count 3; Additional Damage Firearm Damage x 650%; Damage Reduction per Duplicate Hit 15%; Max Damage Reduction 50%
 - Enhanced Bombardment: Duration 60s; Max Stacks 5; Bombardment Range Increase Radius 0.5m; Bombardment Additional Damage Increase Firearm Damage x 50%
-- Stat Info (Level 100): Firearm ATK 15,614; Fire ATK 11,399; Fire Rate 342; Weak Point Damage 2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 77.777; Aimed Shot Accuracy 86.666; Rounds per Magazine 30; Reload Time 1.4; Sprint Speed 800; Movement Speed 540; Movement Speed While Firing 360; Movement Speed While Aiming 270; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 7.14; Multi-Hit Damage 0.68
+- Stat Info (Level 100, max): Firearm ATK 15,614; Fire ATK 11,399; Fire Rate 342; Weak Point Damage 2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 77.777; Aimed Shot Accuracy 86.666; Rounds per Magazine 30; Reload Time 1.4; Sprint Speed 800; Movement Speed 540; Movement Speed While Firing 360; Movement Speed While Aiming 270; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 7.14; Multi-Hit Damage 0.68
 
 ## Hammer and Anvil
 - Type: Shotgun | Tier: Ultimate | Rounds: High-Power Rounds
@@ -297,7 +298,7 @@ created by modifying holy relics guarded by the Knights of Humanity into the for
 - Feature: A multi-barreled composite combat shotgun with two firing modes.
 With the Smoothbore Barrel <Hammer> that fires Kuiper Shells and the Rifled Barrel <Anvil> that fires Gyrojet Explosive Rounds,
 this is a weapon that can deal with enemies in a wide variety of situations.
-- Unique Ability: Multiple Barrels (Unique Ability Level 4 (max))
+- Unique Ability: Multiple Barrels (Unique Ability Level 4 = 4 stars (max))
   - Whenever you press the Aim button, the weapon's barrel changes instead of aiming.
   - Smoothbore Barrel: Hammer
   - Fires Kuiper Shells from the Smoothbore Barrel at the top of the gun.
@@ -309,13 +310,13 @@ this is a weapon that can deal with enemies in a wide variety of situations.
 - Kuiper Shells: Trigger Condition On landing all bullets; Additional Damage Firearm Damage x 3750.0%
 - Gyrojet Explosive Rounds: Time to Trigger 0.3s; Detection Range Radius 20m; Range Radius 5.0m; Damage Firearm Damage x 100%
 - Guided Explosive Round: Shot Count Shell Capacity; Range Radius 5.0m; Damage Firearm Damage x 350%
-- Stat Info (Level 100): Firearm ATK 18,121; Electric ATK 1,813; Fire Rate 133; Shell Capacity 12; Weak Point Damage 1; Effective Range (Drop-off start) 900; Effective Range (Drop-off end) 2,200; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 33.333; Rounds per Magazine 6; Reload Time 1.55; Sprint Speed 800; Movement Speed 480; Movement Speed While Firing 300; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.2
+- Stat Info (Level 100, max): Firearm ATK 18,121; Electric ATK 1,813; Fire Rate 133; Shell Capacity 12; Weak Point Damage 1; Effective Range (Drop-off start) 900; Effective Range (Drop-off end) 2,200; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 33.333; Rounds per Magazine 6; Reload Time 1.55; Sprint Speed 800; Movement Speed 480; Movement Speed While Firing 300; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.2
 
 ## Hive Master
 - Type: Tactical Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211073003
 - Feature: This unique firearm, composed of organic materials, fires insects at enemies to attack. This weapon serves both as a nest, housing the colony and a means to control the insects.
-- Unique Ability: Colony Domination (Unique Ability Level 4 (max))
+- Unique Ability: Colony Domination (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, grants Incubate to self.
   - At max Incubate stacks, removes Incubate and grants Incubation Complete to self.
   - While Incubation Complete is active, hitting an enemy removes Incubation Complete, inflicts Attach Bug on the target, and grants Refill Culture to self.
@@ -330,13 +331,13 @@ this is a weapon that can deal with enemies in a wide variety of situations.
 - Discharge: Damage Firearm Damage x 2038.0%; Range Radius 15m; Applied Target 5; Damage Increase per entity 123.0%; Trigger Condition 20 times
 - Stun: Duration 2.5s
 - Refill Culture: Toxic ATK 10%[x]; Duration 10s
-- Stat Info (Level 100): Firearm ATK 10,824; Toxic ATK 7,092; Fire Rate 600; Weak Point Damage 2.2; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 50; Reload Time 1.4; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 380; Movement Speed While Aiming 290; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.6; Multi-Hit Damage 0.65
+- Stat Info (Level 100, max): Firearm ATK 10,824; Toxic ATK 7,092; Fire Rate 600; Weak Point Damage 2.2; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 50; Reload Time 1.4; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 380; Movement Speed While Aiming 290; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 4.6; Multi-Hit Damage 0.65
 
 ## Hypernova
 - Type: Balanced Melee Weapon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/221133003
 - Feature: One of a new type of melee weapons knowns as a Photon Slasher, it attacks enemies using high-temperature plasma particles.
-- Unique Ability: Supernova Explosion (Unique Ability Level 4 (max))
+- Unique Ability: Supernova Explosion (Unique Ability Level 4 = 4 stars (max))
   - When the Special Attack button is pressed, the weapon is thrown to deal damage to all enemies within range.
   - The thrown weapon creates an Antimatter Field at its landing point and inflicts Towed on all enemies within range.
   - When pressing the Special Attack button again after throwing the weapon, retrieves the weapon to deal damage to all enemies within range.
@@ -346,13 +347,13 @@ this is a weapon that can deal with enemies in a wide variety of situations.
 - Antimatter Field: Damage Melee Weapon Damage x 52.0%; Damage Interval 0.5s; Range Radius 10.0m
 - Supernova Explosion: Damage Melee Weapon Damage x 437.0%; Range Radius 10.0m; Max Damage Increase 273.4%
 - Special Attack Gauge: Consumed when Used -50.0; Consumed when Maintained -0.8
-- Stat Info (Level 100): Melee Weapon ATK 326,661; Melee Weapon Chill ATK 163,331; Attack Speed 0.353; Melee Weapon Critical Hit Rate 42; Melee Weapon Critical Hit Damage 1.7; Additional Attack Damage 0.12; Melee Weapon Piercing Rate 0.05; Melee Weapon Min. Piercing Rate 0.5; Burst 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 630; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 8; Maintain Block Gauge Cost 1.8; Block Gauge Recovery Start Time 3; Block Gauge Recovery Amount 40; Block Efficiency 0.4; Max Special Attack Gauge 250; Special Attack Gauge Recovery Start Time 3.5; Special Attack Gauge Recovery Amount 30; Attribute Status Effect Trigger Rate 15
+- Stat Info (Level 100, max): Melee Weapon ATK 326,661; Melee Weapon Chill ATK 163,331; Attack Speed 0.353; Melee Weapon Critical Hit Rate 42; Melee Weapon Critical Hit Damage 1.7; Additional Attack Damage 0.12; Melee Weapon Piercing Rate 0.05; Melee Weapon Min. Piercing Rate 0.5; Burst 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 630; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 8; Maintain Block Gauge Cost 1.8; Block Gauge Recovery Start Time 3; Block Gauge Recovery Amount 40; Block Efficiency 0.4; Max Special Attack Gauge 250; Special Attack Gauge Recovery Start Time 3.5; Special Attack Gauge Recovery Amount 30; Attribute Status Effect Trigger Rate 15
 
 ## King's Guard Lance
 - Type: Beam Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211123001
 - Feature: A weapon that effectively strikes a wide range of enemies with the energy provided by the mysterious red jewel.
-- Unique Ability: Protector (Unique Ability Level 4 (max))
+- Unique Ability: Protector (Unique Ability Level 4 = 4 stars (max))
   - Aiming activates Preview Mode.
   - Canceling aiming deactivates Preview Mode.
   - When firing while aiming, deploys a Guardian Lance on the terrain.
@@ -364,7 +365,7 @@ this is a weapon that can deal with enemies in a wide variety of situations.
   - Guardian Lance deals increased damage to the target currently being attacked with the firearm.
   - Dealing damage to enemies while active refreshes the duration.
 - Guardian Lance: Ammo Cost upon installation 5; Range Radius 12m; Duration 15s; Max Targets Hit 10; Damage Firearm Damage x 715%; Damage Interval Once per 0.5s; Max Enhancement Level 2; Time Required for DMG Enhancement 3s; DMG Increase per Enhancement Previous Level Damage x 100%; Damage Reduction for 2 Guardian Lances 25%; Damage Reduction with 3 Guardian Lances 34%; Damage Increase Amount Total DMG x 300%
-- Stat Info (Level 100): Firearm ATK 7,839; Chill ATK 2,587; Fire Rate 645; Weak Point Damage 1.25; ATK Drop-off Modifier 1; Max Range 3,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 45; Reload Time 2.099; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Pierce 10; Firearm Critical Hit Rate 11; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.29
+- Stat Info (Level 100, max): Firearm ATK 7,839; Chill ATK 2,587; Fire Rate 645; Weak Point Damage 1.25; ATK Drop-off Modifier 1; Max Range 3,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 45; Reload Time 2.099; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Pierce 10; Firearm Critical Hit Rate 11; Firearm Critical Hit Damage 1.7; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.29
 
 ## Malevolent
 - Type: Hand Cannon | Tier: Ultimate | Rounds: Impact Rounds
@@ -372,75 +373,75 @@ this is a weapon that can deal with enemies in a wide variety of situations.
 - Feature: A special projectile launcher used by Vulgus Commanders
 that has been modified for human use.
 It was designed to inflict horrific injuries on as many targets as possible.
-- Unique Ability: Malicious Pain (Unique Ability Level 4 (max))
+- Unique Ability: Malicious Pain (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, creates a Bladed Cog.
   - Bladed Cog bounces between multiple enemies to deal damage.
   - On hitting Weak Points, creates additional Bladed Cogs.
 - Bladed Cog: Created on hit x3; Created on Weak Point hit x4; Max Bounces 5 times; Damage Firearm Damage x 24%
-- Stat Info (Level 100): Firearm ATK 46,349; Toxic ATK 19,467; Fire Rate 176; Weak Point Damage 2.5; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.888; Aimed Shot Accuracy 91.111; Rounds per Magazine 9; Reload Time 1.65; Sprint Speed 800; Movement Speed 610; Movement Speed While Firing 460; Movement Speed While Aiming 360; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.2
+- Stat Info (Level 100, max): Firearm ATK 46,349; Toxic ATK 19,467; Fire Rate 176; Weak Point Damage 2.5; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.888; Aimed Shot Accuracy 91.111; Rounds per Magazine 9; Reload Time 1.65; Sprint Speed 800; Movement Speed 610; Movement Speed While Firing 460; Movement Speed While Aiming 360; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.2
 
 ## Nazeistra's Devotion
 - Type: Hand Cannon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211023001
 - Feature: A weapon appropriate for a Descendant skilled in marksmanship and in targeting the enemy's weak points. A Descendant with strong marksmanship will be able to utilize its high performance potential.
-- Unique Ability: Fanaticism (Unique Ability Level 4 (max))
+- Unique Ability: Fanaticism (Unique Ability Level 4 = 4 stars (max))
   - On hitting a Weak Point, inflicts Fanaticism on the target and nearby enemies, and has a chance to inflict Charmed. Inflicting Fanaticism on an enemy grants Devotion to self. The number of Devotion stacks granted increases with the number of enemies inflicted with Fanaticism. Hitting an ally consumes additional bullets and supplies bullets to the hit ally.
 - Fanaticism: Duration 10.0s; DEF -10%[x]
 - Devotion: Duration 15.0s; Max Stacks 10; Firearm ATK 6%[x]; Firearm ATK per Stack 7%[x]
 - Charm: Trigger Rate 50%; Applied Target 7; Duration 3.0s; Movement Speed Reduction -60%[x]
 - On hitting an ally: Additional Bullet Consumption 2; Rounds Impact Rounds; Supplied Bullets 12; Cooldown Against Same Target 20s
-- Stat Info (Level 100): Firearm ATK 38,461; Toxic ATK 19,231; Fire Rate 150; Weak Point Damage 5.19; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.222; Aimed Shot Accuracy 94.444; Rounds per Magazine 8; Reload Time 1.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Burst 10; Firearm Critical Hit Rate 45; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 16.67; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 38,461; Toxic ATK 19,231; Fire Rate 150; Weak Point Damage 5.19; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.222; Aimed Shot Accuracy 94.444; Rounds per Magazine 8; Reload Time 1.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Burst 10; Firearm Critical Hit Rate 45; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 16.67; Multi-Hit Damage 0.1
 
 ## Peace Maker
 - Type: Hand Cannon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211023003
 - Feature: A Handgun that fires high-powered bullets from a unique cross-shaped magazine, and employes over-voltage to unleash a barrage of bullets.
-- Unique Ability: Surging Peace (Unique Ability Level 4 (max))
+- Unique Ability: Surging Peace (Unique Ability Level 4 = 4 stars (max))
   - When using a Dimension or Fusion skill, grants the unique ability Single Reload for Peace.
   - When Single Reload for Peace is at Max Stacks, shooting while aiming rapidly fires all loaded rounds.
 - Basic Information: Recoil 10%[+]
 - Single Reload for Peace: Trigger Rate 100%; Duration 15s; Max Stacks 5; Skill Cost 0%[+]; Non-Attribute Skill Power Boost Ratio 5.0%[+]; Non-Attribute Skill Power Boost Ratio per Stack 9.5%[+]
 - When aiming while at max stacks: Fire Rate 545
-- Stat Info (Level 100): Firearm ATK 32,471; Fire Rate 133; Weak Point Damage 4.86; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 91.111; Aimed Shot Accuracy 93.333; Rounds per Magazine 8; Reload Time 1.35; Sprint Speed 800; Movement Speed 630; Movement Speed While Firing 480; Movement Speed While Aiming 380; Burst 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2.5; Attribute Status Effect Trigger Rate 16.67; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 32,471; Fire Rate 133; Weak Point Damage 4.86; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 91.111; Aimed Shot Accuracy 93.333; Rounds per Magazine 8; Reload Time 1.35; Sprint Speed 800; Movement Speed 630; Movement Speed While Firing 480; Movement Speed While Aiming 380; Burst 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2.5; Attribute Status Effect Trigger Rate 16.67; Multi-Hit Damage 0.1
 
 ## Perforator
 - Type: Hand Cannon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211023002
 - Feature: The first weapon to utilize Explosive Scanners, which analyze enemy weaknesses to help you strike them.
-- Unique Ability: Detect (Unique Ability Level 4 (max))
+- Unique Ability: Detect (Unique Ability Level 4 = 4 stars (max))
   - Critical Hits or hits on a Weak Point spawn Explosive Scanners.
   - Explosive Scanners explode on contact with the terrain or enemies and inflict Detect on enemies within the explosion range.
 - Explosive Scanner: Amount Spawned per Critical Hit x5; Amount Spawned per Weak Point Attack x1; Range Radius 5.0m; Damage Firearm Damage x 65%
 - Detect: Duration 10s
 - On hitting an enemy inflicted with Detect: Weak Point Damage 10%[x]
-- Stat Info (Level 100): Firearm ATK 67,092; Fire Rate 100; Weak Point Damage 5.5; Effective Range (Drop-off start) 2,000; Effective Range (Drop-off end) 4,000; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 55.555; Aimed Shot Accuracy 94.444; Rounds per Magazine 6; Reload Time 1.6; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 420; Movement Speed While Aiming 230; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 20; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 67,092; Fire Rate 100; Weak Point Damage 5.5; Effective Range (Drop-off start) 2,000; Effective Range (Drop-off end) 4,000; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 55.555; Aimed Shot Accuracy 94.444; Rounds per Magazine 6; Reload Time 1.6; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 420; Movement Speed While Aiming 230; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 20; Multi-Hit Damage 0.1
 
 ## Piercing Light
 - Type: Sniper Rifle | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211093002
 - Feature: As the first firearm to apply an energy polymer, it has the ability to eliminate an enemy's Enhanced Effect.
-- Unique Ability: Purification of Light (Unique Ability Level 4 (max))
+- Unique Ability: Purification of Light (Unique Ability Level 4 = 4 stars (max))
   - While aiming, hitting an enemy creates a Target of Light at the hit location.
   - While aiming, hitting a Target of Light deals additional damage to the target, applies Dispel, and triggers a Chain Explosion.
   - Chain Explosion deals damage to enemies behind the Target of Light.
 - Target of Light: Duration 15s; Additional Damage Firearm Damage x 555%
 - Chain Explosion: Range 4m X 4m; Max Applied Targets 10; Base Explosion Damage Firearm Damage x 300%; Additional Explosion Damage Boost Ratio 20% per target
-- Stat Info (Level 100): Firearm ATK 193,437; Chill ATK 81,244; Fire Rate 48; Weak Point Damage 2.75; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 19.999; Aimed Shot Accuracy 100; Rounds per Magazine 11; Reload Time 2.6; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Penetration 120; Firearm Critical Hit Rate 40; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.74
+- Stat Info (Level 100, max): Firearm ATK 193,437; Chill ATK 81,244; Fire Rate 48; Weak Point Damage 2.75; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 19.999; Aimed Shot Accuracy 100; Rounds per Magazine 11; Reload Time 2.6; Sprint Speed 800; Movement Speed 400; Movement Speed While Firing 220; Movement Speed While Aiming 130; Crush 10; Penetration 120; Firearm Critical Hit Rate 40; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.74
 
 ## Python
 - Type: Submachine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211043002
 - Feature: A specialized submachine gun invented to strategically utilize toxic Arche.
-- Unique Ability: Python Instinct (Unique Ability Level 4 (max))
+- Unique Ability: Python Instinct (Unique Ability Level 4 = 4 stars (max))
   - On hitting a Weak Point, inflicts the unique ability Prey on the target enemy.
 - Prey: Duration 2.0s; Max Stacks 28; Non-Attribute Resistance -2%[x]; Toxin Resistance -3.6%[x]; Non-Attribute Resistance per Stack -1%[x]; Toxin Resistance per Stack -1.3%[x]
-- Stat Info (Level 100): Firearm ATK 11,908; Toxic ATK 7,503; Fire Rate 923; Weak Point Damage 2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 61.111; Aimed Shot Accuracy 85.555; Rounds per Magazine 30; Reload Time 1.5; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 520; Movement Speed While Aiming 520; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1.3; Attribute Status Effect Trigger Rate 3.45; Multi-Hit Damage 0.44
+- Stat Info (Level 100, max): Firearm ATK 11,908; Toxic ATK 7,503; Fire Rate 923; Weak Point Damage 2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 61.111; Aimed Shot Accuracy 85.555; Rounds per Magazine 30; Reload Time 1.5; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 520; Movement Speed While Aiming 520; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1.3; Attribute Status Effect Trigger Rate 3.45; Multi-Hit Damage 0.44
 
 ## Restored Relic
 - Type: Launcher | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211103002
 - Feature: A weapon that demonstrates at least a small portion of the overwhelming technical prowess of the Ancestors. It has a built-in function that fires guided rounds.
-- Unique Ability: Ancient Technique (Unique Ability Level 4 (max))
+- Unique Ability: Ancient Technique (Unique Ability Level 4 = 4 stars (max))
   - Fires a Guided Round with a set chance.
   - Guided Rounds explode to create Cluster Rounds.
   - Cluster Rounds track to nearby enemies.
@@ -448,23 +449,23 @@ It was designed to inflict horrific injuries on as many targets as possible.
 - Guided Round: Trigger Rate 100%
 - Cluster Rounds: Amount Spawned x8; Explosion Damage Firearm Damage x 2%; Explosion Damage Range Radius 1m
 - Ancient Fire: Trigger Rate 25%; Duration 3s; Damage Interval 1s; Additional Damage Firearm Damage x 40%
-- Stat Info (Level 100): Explosive ATK 109,813; Fire ATK 87,851; Fire Rate 60; Explosion ATK Drop-off Range 0.1; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.5; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Launcher Explosion Radius 830; Multi-Hit Damage 0.58
+- Stat Info (Level 100, max): Explosive ATK 109,813; Fire ATK 87,851; Fire Rate 60; Explosion ATK Drop-off Range 0.1; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.5; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Launcher Explosion Radius 830; Multi-Hit Damage 0.58
 
 ## Secret Garden
 - Type: Tactical Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211073001
 - Feature: A weapon seemingly imbued with a beautiful garden. The precisely designed features provide the user with buffs or debuffs the enemy.
-- Unique Ability: Gardener (Unique Ability Level 4 (max))
+- Unique Ability: Gardener (Unique Ability Level 4 = 4 stars (max))
   - When using a Dimension skill, recovers Custom Resource with a set chance. When using a Tech skill, grants the unique ability Pest Control with a set chance.
 - Upon using a Dimension skill: Trigger Rate 39.0%; Custom Resource Recovery 10%
 - Pest Control: Trigger Rate 50%; Duration 10s; Max Stacks 3; Firearm ATK 5%[x]; Skill Power 5%[x]; Firearm ATK per Stack 16%[x]; Skill Power per Stack 16%[x]
-- Stat Info (Level 100): Firearm ATK 10,534; Fire Rate 480; Weak Point Damage 1.77; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 82.222; Aimed Shot Accuracy 87.777; Rounds per Magazine 48; Reload Time 1.6; Sprint Speed 800; Movement Speed 540; Movement Speed While Firing 360; Movement Speed While Aiming 270; Burst 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 10,534; Fire Rate 480; Weak Point Damage 1.77; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 82.222; Aimed Shot Accuracy 87.777; Rounds per Magazine 48; Reload Time 1.6; Sprint Speed 800; Movement Speed 540; Movement Speed While Firing 360; Movement Speed While Aiming 270; Burst 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 5; Multi-Hit Damage 0.1
 
 ## Shackles of Mortality
 - Type: Hand Cannon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211023006
 - Feature: A firearm famous for delivering death that no mortal can escape. It is said that every fourth bullet it fires is imbued with the power of certain death.
-- Unique Ability: Circulation Ring (Unique Ability Level 4 (max))
+- Unique Ability: Circulation Ring (Unique Ability Level 4 = 4 stars (max))
   - Fires a Resting Bullet on the first shot and every set number of shots thereafter.
   - On Resting Bullet hit, inflicts Rest on the target.
   - Rest deals continuous damage to the target and Max Stack Count is determined by the Critical Hit Damage.
@@ -477,25 +478,25 @@ It was designed to inflict horrific injuries on as many targets as possible.
 - Rest per Stack Additional Effect: Trigger Condition 6 stacks; Trigger Effect Triggers Final Word
 - Eye of the Reaper: Duration 15s; Firearm Critical Hit Damage Increase 44.0%[x]; Recoil Reduction Rate -44.0%[+]
 - Final Word: Damage Firearm Damage x 444%
-- Stat Info (Level 100): Firearm ATK 51,048; Toxic ATK 17,414; Fire Rate 109; Weak Point Damage 2; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.222; Aimed Shot Accuracy 94.444; Rounds per Magazine 8; Reload Time 1.4; Sprint Speed 800; Movement Speed 580; Movement Speed While Firing 420; Movement Speed While Aiming 360; Burst 10; Firearm Critical Hit Rate 44; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 20; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 51,048; Toxic ATK 17,414; Fire Rate 109; Weak Point Damage 2; Effective Range (Drop-off start) 2,500; Effective Range (Drop-off end) 4,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.222; Aimed Shot Accuracy 94.444; Rounds per Magazine 8; Reload Time 1.4; Sprint Speed 800; Movement Speed 580; Movement Speed While Firing 420; Movement Speed While Aiming 360; Burst 10; Firearm Critical Hit Rate 44; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 20; Multi-Hit Damage 0.1
 
 ## Shadow
 - Type: Balanced Melee Weapon | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/221133001
 - Feature: This melee weapon was developed by reverse-engineering weapons seized from the Vulgus. Its resemblance to a weapon used by a Descendant in the distant past was the inspiration for its name, Shadow.
-- Unique Ability: Shadow Slash (Unique Ability Level 4 (max))
+- Unique Ability: Shadow Slash (Unique Ability Level 4 = 4 stars (max))
   - When the Special Attack button is pressed, charges the Weapon with energy, then dashes forward to deal damage and inflict Tow on all enemies within range using Shadow Dash. After dashing, swings the Weapon repeatedly to use Shadow Slash. On hit with Shadow Dash and Shadow Slash triggers additional attacks. As energy charges, increases Damage and Dash Distance.
 - Basic Information: Move Distance Max 20.0m; Max Damage Increase 50%
 - Shadow Dash: Damage Melee Weapon Damage x 172.6%; Range 4m X 4m
 - Shadow Slash: Damage Melee Weapon Damage x 172.6%; Range 3m X 3m
 - Special Attack Gauge: Consumed when Used -60.0
-- Stat Info (Level 100): Melee Weapon ATK 418,048; Melee Weapon Toxic ATK 209,024; Attack Speed 0.565; Melee Weapon Critical Hit Rate 5; Melee Weapon Critical Hit Damage 1.1; Additional Attack Damage 1; Melee Weapon Piercing Rate 0.04; Melee Weapon Min. Piercing Rate 0.5; Pierce 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 600; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 10; Maintain Block Gauge Cost 1.5; Block Gauge Recovery Start Time 2; Block Gauge Recovery Amount 40; Block Efficiency 0.35; Max Special Attack Gauge 200; Special Attack Gauge Recovery Start Time 3; Special Attack Gauge Recovery Amount 35; Attribute Status Effect Trigger Rate 20
+- Stat Info (Level 100, max): Melee Weapon ATK 418,048; Melee Weapon Toxic ATK 209,024; Attack Speed 0.565; Melee Weapon Critical Hit Rate 5; Melee Weapon Critical Hit Damage 1.1; Additional Attack Damage 1; Melee Weapon Piercing Rate 0.04; Melee Weapon Min. Piercing Rate 0.5; Pierce 10; Max Melee Weapon Attack Range Multiplier 2; Movement Speed 600; Sprint Speed 1,040; Max Block Gauge 200; Start Block Gauge Cost 10; Maintain Block Gauge Cost 1.5; Block Gauge Recovery Start Time 2; Block Gauge Recovery Amount 40; Block Efficiency 0.35; Max Special Attack Gauge 200; Special Attack Gauge Recovery Start Time 3; Special Attack Gauge Recovery Amount 35; Attribute Status Effect Trigger Rate 20
 
 ## Sigvore's Proof
 - Type: Launcher | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211103001
 - Feature: A weapon that came about when a single Descendant succeeded in duplicating a launcher developed by the Vulgus Sigvore. The built-in Sticky Bomb causes an even bigger explosion.
-- Unique Ability: Mad Bomber (Unique Ability Level 4 (max))
+- Unique Ability: Mad Bomber (Unique Ability Level 4 = 4 stars (max))
   - Fires a Sticky Bomb when shooting while aiming.
   - The launched bomb will automatically detonate after a certain period of time after sticking to an enemy. When aim is cancelled, all attached bombs will detonate at the same time, regardless of whether the countdown has been completed.
   - The damage of Sticky Bombs increases proportionally to the number of Sticky Bombs attached.
@@ -503,23 +504,23 @@ It was designed to inflict horrific injuries on as many targets as possible.
   - Upon detonation, Sticky Bombs inflict Thermal Burn on damaged enemies.
 - Sticky Bomb: Detonation Time 7s; Damage Increase per Bomb 45.0%; Max Stacks x8; Damage Reduction per target 20.0%; Min Damage 20.0%; Max Number of Creations x8
 - Thermal Burn: Duration 3s; Damage Interval 1s; Max Stacks 8; Additional Damage Firearm Damage x 10.0%; Additional DMG per Stack Firearm Damage x 13.0%
-- Stat Info (Level 100): Explosive ATK 87,476; Toxic ATK 27,993; Fire Rate 80; Explosion ATK Drop-off Range 0.3; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 10; Reload Time 2.8; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 35; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 25; Launcher Explosion Radius 510; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Explosive ATK 87,476; Toxic ATK 27,993; Fire Rate 80; Explosion ATK Drop-off Range 0.3; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 10; Reload Time 2.8; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Pierce 10; Firearm Critical Hit Rate 35; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 25; Launcher Explosion Radius 510; Multi-Hit Damage 0.1
 
 ## Smithereens
 - Type: Shotgun | Tier: Ultimate | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211033001
 - Feature: This weapon was named so because even the Colossi and Vulgus are said to have been smashed to smithereens by the gun's owner. The closer it is to its target, the more powerful it is.
-- Unique Ability: Fearlessness (Unique Ability Level 4 (max))
+- Unique Ability: Fearlessness (Unique Ability Level 4 = 4 stars (max))
   - On hitting the enemy with all fired bullets, increases the Firearm Critical Hit Rate and Firearm Critical Hit Damage of the attack. Upon landing a Critical Hit on an enemy, grants the Firearm's unique ability Amplification.
 - On landing all bullets: Firearm Critical Hit Rate Fixed 100%; Firearm Critical Hit Damage 10[+]
 - Amplification: Duration 2.0s; Shell Capacity 4[+]
-- Stat Info (Level 100): Firearm ATK 14,562; Fire Rate 150; Shell Capacity 10; Weak Point Damage 1; Effective Range (Drop-off start) 700; Effective Range (Drop-off end) 2,000; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 16.666; Aimed Shot Accuracy 31.111; Rounds per Magazine 15; Reload Time 1.6; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 1.67; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 14,562; Fire Rate 150; Shell Capacity 10; Weak Point Damage 1; Effective Range (Drop-off start) 700; Effective Range (Drop-off end) 2,000; ATK Drop-off Modifier 0.1; Max Range 15,000; Hip Fire Accuracy 16.666; Aimed Shot Accuracy 31.111; Rounds per Magazine 15; Reload Time 1.6; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Burst 10; Firearm Critical Hit Rate 1; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 1.67; Multi-Hit Damage 0.1
 
 ## The Final Masterpiece
 - Type: Handgun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211013002
 - Feature: An artistic firearm that provides many buffs to the user befitting the masterpiece that it is. Like other works of art, it can provide unexpected joy to the user.
-- Unique Ability: Masterpiece (Unique Ability Level 4 (max))
+- Unique Ability: Masterpiece (Unique Ability Level 4 = 4 stars (max))
   - On hitting a Common Monster, triggers a Frosty Explosion at the hit location and inflicts Frostbite.
   - On hitting an Elite or Commander, Icicles fall on nearby Elites and Commanders to deal damage.
   - Icicles deal less damage the more targets hit.
@@ -527,13 +528,13 @@ It was designed to inflict horrific injuries on as many targets as possible.
 - Frosty Explosion: Trigger Rate 50%; Range Radius 7.1m; Damage Firearm Damage x 265.0%
 - Icicle: Trigger Rate 50%; Surrounding Enemy Detection Range Radius 10m; Applied Target 4; Damage Firearm Damage x 355.0%; Damage Reduction per target 15.0%; Min Damage 55.0%; Damage Increase on Weak Point Hit 50%
 - Frostbite: Duration 0.8s
-- Stat Info (Level 100): Firearm ATK 11,164; Chill ATK 9,936; Fire Rate 500; Weak Point Damage 2.11; Effective Range (Drop-off start) 1,500; Effective Range (Drop-off end) 3,500; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 77.777; Rounds per Magazine 20; Reload Time 1.1; Sprint Speed 800; Movement Speed 650; Movement Speed While Firing 650; Movement Speed While Aiming 650; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 5.26; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 11,164; Chill ATK 9,936; Fire Rate 500; Weak Point Damage 2.11; Effective Range (Drop-off start) 1,500; Effective Range (Drop-off end) 3,500; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 72.222; Aimed Shot Accuracy 77.777; Rounds per Magazine 20; Reload Time 1.1; Sprint Speed 800; Movement Speed 650; Movement Speed While Firing 650; Movement Speed While Aiming 650; Pierce 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 5.26; Multi-Hit Damage 0.1
 
 ## The Last Dagger
 - Type: Handgun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211013001
 - Feature: A handgun with the specialized ability to defy expectations each time it fires its Ultimatum at the enemy.
-- Unique Ability: Ultimatum (Unique Ability Level 4 (max))
+- Unique Ability: Ultimatum (Unique Ability Level 4 = 4 stars (max))
   - When hitting an enemy, grants the Unique Abilities Patience and Lethal Dagger.
   - Patience is reset on reload at max stacks, and grants Strike.
   - Strike consumes all rounds, and fires Enhanced Rounds.
@@ -542,27 +543,27 @@ It was designed to inflict horrific injuries on as many targets as possible.
 - Patience: Duration 15s; Max Stacks 30
 - Strike: Consumed Bullets All Reloaded Bullets; Firearm ATK Increase Amount Firearm ATK x Rounds per Magazine x 116%
 - Steps: Duration 30s; Movement Speed Increase Amount 15.0%
-- Stat Info (Level 100): Firearm ATK 14,095; Fire Rate 600; Weak Point Damage 1.6; Effective Range (Drop-off start) 1,800; Effective Range (Drop-off end) 3,800; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 86.666; Aimed Shot Accuracy 94.444; Rounds per Magazine 12; Reload Time 1.2; Sprint Speed 800; Movement Speed 630; Movement Speed While Firing 630; Movement Speed While Aiming 630; Pierce 10; Firearm Critical Hit Rate 12; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.06
+- Stat Info (Level 100, max): Firearm ATK 14,095; Fire Rate 600; Weak Point Damage 1.6; Effective Range (Drop-off start) 1,800; Effective Range (Drop-off end) 3,800; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 86.666; Aimed Shot Accuracy 94.444; Rounds per Magazine 12; Reload Time 1.2; Sprint Speed 800; Movement Speed 630; Movement Speed While Firing 630; Movement Speed While Aiming 630; Pierce 10; Firearm Critical Hit Rate 12; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.06
 
 ## Thunder Cage
 - Type: Submachine Gun | Tier: Ultimate | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211043001
 - Feature: A firearm that emits an electric shockwave that creates the appearance of thunder being directed at the enemy.
-- Unique Ability: Overcharge (Unique Ability Level 4 (max))
+- Unique Ability: Overcharge (Unique Ability Level 4 = 4 stars (max))
   - On hitting a target with a firearm, inflicts Quick Charge. Hitting a target with a firearm inflicted with Quick Charge procs Electric Shockwave, to deal damage and inflict Overcharge on nearby targets. Defeating a target with a firearm inflicted with Quick Charge, Electric Shockwave, or Thunder creates Electric Shockwave, to deal damage and inflict Overcharge on nearby targets. Hitting a target inflicted with Overcharge with Electric Shockwave hits the target with Thunder, to deal damage and inflict Electrocution.
 - Electric Shockwave: Trigger Rate 30%; Applied Target 8; Damage Firearm Damage x 265%; Surrounding Enemy Detection Range Radius 20m
 - Quick Charging: Duration 15.0s
 - Thunder: Damage Firearm Damage x 615%
 - Overcharge: Duration 15.0s
 - Electrocution: Duration 3.0s; Damage Interval 0.5s; Damage Firearm Damage x 50%
-- Stat Info (Level 100): Firearm ATK 11,055; Electric ATK 9,176; Fire Rate 666; Weak Point Damage 1.2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 26; Reload Time 1.4; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 11,055; Electric ATK 9,176; Fire Rate 666; Weak Point Damage 1.2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 26; Reload Time 1.4; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.1
 
 ## Truly Deadly Arson
 - Type: Beam Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211123004
 - Feature: A super-heated flamethrower crafted using a Pyromaniac's core and armor.
 It is said to be Blair's favorite weapon since it was made using parts of his nemesis.
-- Unique Ability: Double Tap, Double Check (Unique Ability Level 4 (max))
+- Unique Ability: Double Tap, Double Check (Unique Ability Level 4 = 4 stars (max))
   - On hitting an enemy, inflicts Void Fire.
   - When Burn is inflicted on top of Void Fire, it explodes to deal damage, then transforms Burn to the more powerful, Inferno.
   - Inferno nullifies Void Fire.
@@ -576,26 +577,26 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - Inferno: Duration 5.0s; Damage Interval 1.0s; Damage Firearm Damage x 31%
 - Heat Stacking: Max Stacks 3
 - Combustion: Max Stacks 3; Duration 30.0s; Continuous Damage Type Base Skill Power Boost Ratio per Stack 6.7%
-- Stat Info (Level 100): Firearm ATK 9,533; Fire ATK 3,432; Fire Rate 545; Weak Point Damage 1; ATK Drop-off Modifier 1; Max Range 3,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 35; Reload Time 2; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 330; Movement Speed While Aiming 240; Pierce 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 1.6; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.44
+- Stat Info (Level 100, max): Firearm ATK 9,533; Fire ATK 3,432; Fire Rate 545; Weak Point Damage 1; ATK Drop-off Modifier 1; Max Range 3,000; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 35; Reload Time 2; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 330; Movement Speed While Aiming 240; Pierce 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 1.6; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.44
 
 ## Voltia
 - Type: Beam Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211123003
 - Feature: A firearm that incorporates the electrical current discharge technology used in Bunny's suit into a Beam Rifle. Since it discharges electrical energy rather than a normal light beam, it can also electrocute nearby enemies.
-- Unique Ability: Chain Current (Unique Ability Level 4 (max))
+- Unique Ability: Chain Current (Unique Ability Level 4 = 4 stars (max))
   - When attacking, emits a Chain Current on nearby targets.
   - Emitting Chain Current causes Multi-Hits.
   - When Multi-Hits occur, the next Chain Current increases damage and deals Additional Damage.
   - Chain Current deals Additional Damage to Anti-Void Shields and Anti-Arche Shields.
   - All of Voltia's attacks can damage Anti-Void Shields.
 - Chain Current: Activation Interval Every 2 Shots; Applied Target 6; When Attacking Targets with Anti-Void Shields 6; When Attacking Targets with Anti-Arche Shields 6; Additional damage dealt to Anti-Void Shields when attacking Firearm Damage x 4000%; Additional Damage to Anti-Arche Shields When Attacking Firearm Damage x 4000%; Damage Firearm Damage x 200.0%; Additional Damage with Multi-Hits Firearm Damage x 270.0%; Chain Current Additional Damage on Multi-Hit 270.0%
-- Stat Info (Level 100): Firearm ATK 8,499; Electric ATK 7,650; Fire Rate 666; Weak Point Damage 1.19; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 42; Reload Time 2.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 15; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.63
+- Stat Info (Level 100, max): Firearm ATK 8,499; Electric ATK 7,650; Fire Rate 666; Weak Point Damage 1.19; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.888; Aimed Shot Accuracy 100; Rounds per Magazine 42; Reload Time 2.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Pierce 10; Firearm Critical Hit Rate 15; Firearm Critical Hit Damage 1.5; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.63
 
 ## Wave of Light
 - Type: Scout Rifle | Tier: Ultimate | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211083001
 - Feature: A special firearm that creates diverse effects, utilizing photons when reloading. It can also appear as a wave of light.
-- Unique Ability: Splendor (Unique Ability Level 4 (max))
+- Unique Ability: Splendor (Unique Ability Level 4 = 4 stars (max))
   - After reloading, grants Splendor and Sparkle to self. While Sparkle is active, hitting with a firearm creates a Solar Halo at the location hit. Hitting the Solar Halo with a firearm creates an Aureole in an area around the Solar Halo. Aureoles periodically deal damage and inflict Weaken Regeneration on targets within range. Only 1 Solar Halo can exist at a time and it is removed when the maximum number of Aureoles is reached. Defeating enemies with Aureoles has a chance to restore Impact Rounds.
 - Splendor: Duration 15s; Firearm Critical Hit Rate 43.5%[+]
 - Sparkle: Duration 15s
@@ -603,13 +604,13 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - Aureole: Duration 8s; Damage Firearm Damage x 200%; Damage Interval 0.5s; Max Spawned 10
 - When defeating enemies with Aureole: Trigger Rate 50%; Rounds Impact Rounds; Recovery per enemy defeated 4
 - Weakened Regeneration: Duration 10s; Weaken Regeneration -50%[x]
-- Stat Info (Level 100): Firearm ATK 36,141; Fire ATK 28,913; Fire Rate 250; Weak Point Damage 2.32; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 30.000; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.2; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Crush 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 10; Multi-Hit Damage 0.27
+- Stat Info (Level 100, max): Firearm ATK 36,141; Fire ATK 28,913; Fire Rate 250; Weak Point Damage 2.32; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 30.000; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.2; Sprint Speed 800; Movement Speed 500; Movement Speed While Firing 320; Movement Speed While Aiming 230; Crush 10; Firearm Critical Hit Rate 10; Firearm Critical Hit Damage 1.8; Attribute Status Effect Trigger Rate 10; Multi-Hit Damage 0.27
 
 ## Whirlwind
 - Type: Tactical Rifle | Tier: Ultimate | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211073004
 - Feature: A tactical rifle that started as stage prop for Luna and was weaponized based on an idea from Deslin. It fires compressed air at ultra-high pressure through a rotary vortex generator to create stackable, small whirlwinds.
-- Unique Ability: Wind Snare (Unique Ability Level 4 (max))
+- Unique Ability: Wind Snare (Unique Ability Level 4 = 4 stars (max))
   - When firing a firearm after a certain number of hits, fires Turbulence.
   - When firing Turbulence, grants Updraft to self and creates a Wind Snare at the location Turbulence hits.
   - Wind Snare grants Updraft to allies within range, deals damage, and inflicts Air Resistance to enemies at a fixed interval.
@@ -622,117 +623,159 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - Down Burst: Damage Firearm Damage x 250%; Range Wind Snare Target Range
 - Updraft: Duration 5s; Jump Increase 100%[x]
 - Air Resistance: Duration 1s; Movement Speed -30%[x]
-- Stat Info (Level 100): Firearm ATK 15,446; Chill ATK 10,817; Fire Rate 641; Weak Point Damage 2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 44; Reload Time 1.5; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 380; Movement Speed While Aiming 290; Burst 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 7; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 15,446; Chill ATK 10,817; Fire Rate 641; Weak Point Damage 2; Effective Range (Drop-off start) 3,500; Effective Range (Drop-off end) 6,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.333; Aimed Shot Accuracy 88.888; Rounds per Magazine 44; Reload Time 1.5; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 380; Movement Speed While Aiming 290; Burst 10; Firearm Critical Hit Rate 25; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 7; Multi-Hit Damage 0.1
 
 ## ARMIS
 - Type: Assault Rifle | Tier: Transcendent | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211064001
 - Feature: A firearm equipped with a new system called the Autonomous Rapid Micro Interception System. The code for an autonomous interception system that Jayber originally designed for the development of a new turret was modified to fit this firearm. Thanks to this, the auxiliary warheads mounted on the ARMIS can easily identify and strike enemies.
 - Unique Ability: Autonomous Interception System (Unique Ability (no level values in the official library))
-  - On hitting an enemy, launches an Interceptor Missile at the hit target to deal damage.Grants Countdown at max stacks and decreases stacks when firing a firearm.When Countdown is exhausted, the next shot launches a Small Warhead Rocket.On Multi-Hit, launches an additional Interceptor Missile and decreases Countdown.Inflicts Missile Fragment on enemies hit by Interceptor Missiles or Small Warhead Rockets.Attacking enemies with Missile Fragment using a firearm, causes shots to ricochet to nearby enemies, to deal Additional Damage.
+  - On hitting an enemy, launches an Interceptor Missile at the hit target to deal damage.
+  - Grants Countdown at max stacks and decreases stacks when firing a firearm.
+  - When Countdown is exhausted, the next shot launches a Small Warhead Rocket.
+  - On Multi-Hit, launches an additional Interceptor Missile and decreases Countdown.
+  - Inflicts Missile Fragment on enemies hit by Interceptor Missiles or Small Warhead Rockets.
+  - Attacking enemies with Missile Fragment using a firearm, causes shots to ricochet to nearby enemies, to deal Additional Damage.
 - Sub Ability: Attribute Conversion: Fire
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 32,201; Fire ATK 77,282; Fire Rate 582; Weak Point Damage 1.2; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.88; Aimed Shot Accuracy 91.11; Rounds per Magazine 30; Reload Time 1.65; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 2; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 5.5; Multi-Hit Damage 0.62
+- Stat Info (Level 100, max): Firearm ATK 32,201; Fire ATK 77,282; Fire Rate 582; Weak Point Damage 1.2; Effective Range (Drop-off start) 3,000; Effective Range (Drop-off end) 5,500; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 88.88; Aimed Shot Accuracy 91.11; Rounds per Magazine 30; Reload Time 1.65; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 2; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 5.5; Multi-Hit Damage 0.62
 
 ## ATR-0 Prototype
 - Type: Tactical Rifle | Tier: Transcendent | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211074001
 - Feature: A firearm that boasts exceptional efficiency by directly utilizing the energy that is normally lost during the atomization of Non-Attribute Arche. It projects that energy directly into bullets, dealing AoE damage upon impact with enemies.
 - Unique Ability: Protocol Zero (Unique Ability (no level values in the official library))
-  - Increases Non-Attribute Skill Power Amplification Rate while holding a weapon.When using a Non-Attribute Skill, gains Arche Energy Bullets.While possessing Arche Energy Bullets, firearm hits consume Arche Energy Bullets to deal Additional Damage.When defeating an enemy with a Non-Attribute Skill or Arche Energy Bullets, there is a chance to trigger Arche Explosion that deals damage to nearby enemies.Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
+  - Increases Non-Attribute Skill Power Amplification Rate while holding a weapon.
+  - When using a Non-Attribute Skill, gains Arche Energy Bullets.
+  - While possessing Arche Energy Bullets, firearm hits consume Arche Energy Bullets to deal Additional Damage.
+  - When defeating an enemy with a Non-Attribute Skill or Arche Energy Bullets, there is a chance to trigger Arche Explosion that deals damage to nearby enemies.
+  - Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
 - Sub Ability: Attribute Conversion: Chill; Barrel Wear
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 14,009; Chill ATK 29,419; Fire Rate 375; Weak Point Damage 1.6; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.33; Aimed Shot Accuracy 88.88; Rounds per Magazine 45; Reload Time 1.47; Sprint Speed 800; Movement Speed 570; Movement Speed While Firing 390; Movement Speed While Aiming 300; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1.05; Attribute Status Effect Trigger Rate 8; Multi-Hit Damage 0.72
+- Stat Info (Level 100, max): Firearm ATK 14,009; Chill ATK 29,419; Fire Rate 375; Weak Point Damage 1.6; Effective Range (Drop-off start) 3,200; Effective Range (Drop-off end) 6,200; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 83.33; Aimed Shot Accuracy 88.88; Rounds per Magazine 45; Reload Time 1.47; Sprint Speed 800; Movement Speed 570; Movement Speed While Firing 390; Movement Speed While Aiming 300; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1.05; Attribute Status Effect Trigger Rate 8; Multi-Hit Damage 0.72
 
 ## Emperor's Guard Lance
 - Type: Beam Rifle | Tier: Transcendent | Rounds: Special Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211124001
 - Feature: This firearm is an upgraded version of the King's Guard Lance with the performance of its Red Core pushed to the limits. When Arche exceeding the critical threshold is injected into the existing Red Core, it resonates with a golden glow and this energy can be harnessed to strike enemies.
 - Unique Ability: Emperor's Guard Lance (Unique Ability (no level values in the official library))
-  - Aiming activates and cancelling aim deactivates Preview Mode.Firing while in Preview Mode deploys Emperor's Guard Lance.Deploying additional Emperor's Guard Lances after the Max Maintainable Emperor's Guard Lances has been reached, removes the first Emperor's Guard Lance deployed before deploying a new one.When hitting a certain number of times with a firearm, All deployed Emperor's Guard Lances trigger Emperor's Majesty that deals damage to targets within range.If a target within the attack range of Emperor's Guard Lance is hit by a certain number of Multi-Hits, triggers Emperor's Judgment and deals damage to the target.
+  - Aiming activates and cancelling aim deactivates Preview Mode.
+  - Firing while in Preview Mode deploys Emperor's Guard Lance.
+  - Deploying additional Emperor's Guard Lances after the Max Maintainable Emperor's Guard Lances has been reached, removes the first Emperor's Guard Lance deployed before deploying a new one.
+  - When hitting a certain number of times with a firearm, All deployed Emperor's Guard Lances trigger Emperor's Majesty that deals damage to targets within range.
+  - If a target within the attack range of Emperor's Guard Lance is hit by a certain number of Multi-Hits, triggers Emperor's Judgment and deals damage to the target.
 - Sub Ability: Attribute Conversion: Chill
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 8,888; Chill ATK 21,333; Fire Rate 689; Weak Point Damage 1.25; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.88; Aimed Shot Accuracy 100; Rounds per Magazine 50; Reload Time 2; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 6; Multi-Hit Damage 0.69
+- Stat Info (Level 100, max): Firearm ATK 8,888; Chill ATK 21,333; Fire Rate 689; Weak Point Damage 1.25; ATK Drop-off Modifier 1; Max Range 3,200; Hip Fire Accuracy 98.88; Aimed Shot Accuracy 100; Rounds per Magazine 50; Reload Time 2; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.15; Attribute Status Effect Trigger Rate 6; Multi-Hit Damage 0.69
 
 ## Frost Blossom
 - Type: Machine Gun | Tier: Transcendent | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211054001
 - Feature: A weapon created by applying technology acquired during the development of Hailey's Ultimate Suit. It is particularly sensitive to Cold Arche, and evaluations indicate that its destructive power is particularly formidable when wielded by a Chill Attribute Descendant.
 - Unique Ability: Bloom (Unique Ability (no level values in the official library))
-  - Increases Chill Skill Power Amplification Rate while holding a weapon.Chill Skill hits on an enemy inflict Frost Seed, and firearm hits on an enemy inflicted with Frost Seed deal Additional Damage to the target.When defeating an enemy with a Chill Skill or firearm, there is a chance to trigger Frost Explosion that deals damage to nearby enemies.Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
+  - Increases Chill Skill Power Amplification Rate while holding a weapon.
+  - Chill Skill hits on an enemy inflict Frost Seed, and firearm hits on an enemy inflicted with Frost Seed deal Additional Damage to the target.
+  - When defeating an enemy with a Chill Skill or firearm, there is a chance to trigger Frost Explosion that deals damage to nearby enemies.
+  - Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
 - Sub Ability: Attribute Conversion: Chill; Barrel Wear
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 6,765; Chill ATK 14,884; Fire Rate 689; Weak Point Damage 1.2; Effective Range (Drop-off start) 4,200; Effective Range (Drop-off end) 7,700; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 44.44; Aimed Shot Accuracy 46.66; Rounds per Magazine 75; Reload Time 2.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Crush 10; Firearm Critical Hit Rate 22; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 7.2; Multi-Hit Damage 0.05
+- Stat Info (Level 100, max): Firearm ATK 6,765; Chill ATK 14,884; Fire Rate 689; Weak Point Damage 1.2; Effective Range (Drop-off start) 4,200; Effective Range (Drop-off end) 7,700; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 44.44; Aimed Shot Accuracy 46.66; Rounds per Magazine 75; Reload Time 2.5; Sprint Speed 800; Movement Speed 525; Movement Speed While Firing 345; Movement Speed While Aiming 255; Crush 10; Firearm Critical Hit Rate 22; Firearm Critical Hit Damage 2.25; Attribute Status Effect Trigger Rate 7.2; Multi-Hit Damage 0.05
 
 ## Malicious Dominator
 - Type: Hand Cannon | Tier: Transcendent | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211024001
 - Feature: This firearm is a modified version of the Malevolent, engineered to maximize lethality. By incorporating the know-how acquired during the development of Freyna's Ultimate Suit, the Nightmare Dominator, it has become possible to manifest the ultimate expression of malice intended to inflict pain upon enemies.
 - Unique Ability: Atrocious (Unique Ability (no level values in the official library))
-  - On hitting an enemy, creates Blade of Malice.Blade of Malice bounces between multiple enemies, to deal damage.On hitting a Weak Point, inflicts Encroachment of Evil on the target.Encroachment of Evil deals continuous damage while the effect is active, and deals Additional Damage based on the number of stacks.When hitting with a firearm at the hit location, or upon defeating an enemy at the target's location, has a chance to trigger Malicious Explosion at the target's location, to deal damage and inflict Malice on targets within range.
+  - On hitting an enemy, creates Blade of Malice.
+  - Blade of Malice bounces between multiple enemies, to deal damage.
+  - On hitting a Weak Point, inflicts Encroachment of Evil on the target.
+  - Encroachment of Evil deals continuous damage while the effect is active, and deals Additional Damage based on the number of stacks.
+  - When hitting with a firearm at the hit location, or upon defeating an enemy at the target's location, has a chance to trigger Malicious Explosion at the target's location, to deal damage and inflict Malice on targets within range.
 - Sub Ability: Attribute Conversion: Toxic
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 51,232; Toxic ATK 92,217; Fire Rate 187; Weak Point Damage 2.7; Effective Range (Drop-off start) 2,800; Effective Range (Drop-off end) 4,800; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.22; Aimed Shot Accuracy 94.44; Rounds per Magazine 9; Reload Time 1.6; Sprint Speed 800; Movement Speed 650; Movement Speed While Firing 500; Movement Speed While Aiming 400; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 15; Multi-Hit Damage 0.25
+- Stat Info (Level 100, max): Firearm ATK 51,232; Toxic ATK 92,217; Fire Rate 187; Weak Point Damage 2.7; Effective Range (Drop-off start) 2,800; Effective Range (Drop-off end) 4,800; ATK Drop-off Modifier 0.4; Max Range 15,000; Hip Fire Accuracy 92.22; Aimed Shot Accuracy 94.44; Rounds per Magazine 9; Reload Time 1.6; Sprint Speed 800; Movement Speed 650; Movement Speed While Firing 500; Movement Speed While Aiming 400; Burst 10; Firearm Critical Hit Rate 5; Firearm Critical Hit Damage 1; Attribute Status Effect Trigger Rate 15; Multi-Hit Damage 0.25
 
 ## Nightmare Launcher
 - Type: Launcher | Tier: Transcendent | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211104001
 - Feature: This firearm incorporates new technology discovered when the development of Keelan's Ultimate Suit was floundering. The firearm's ability to extract Corrosive Energy was so remarkable that even Keelan acknowledged that it was like seeing his own Arche ability.
 - Unique Ability: Dreadful Dream (Unique Ability (no level values in the official library))
-  - Increases Toxic Skill Power Amplification Rate while holding a weapon.Toxic Skill hits on an enemy inflict Purple Nightmare, and firearm hits on an enemy inflicted with Purple Nightmare deal Additional Damage to the target.Decreases the Additional Damage as the number of targets hit increases.When defeating an enemy with a Toxic Skill or firearm, there is a chance to trigger Venom Explosion that deals damage to targets within range.Additionally, grants Enemies' Nightmare to self and gains 1 High-Power Round.Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
+  - Increases Toxic Skill Power Amplification Rate while holding a weapon.
+  - Toxic Skill hits on an enemy inflict Purple Nightmare, and firearm hits on an enemy inflicted with Purple Nightmare deal Additional Damage to the target.
+  - Decreases the Additional Damage as the number of targets hit increases.
+  - When defeating an enemy with a Toxic Skill or firearm, there is a chance to trigger Venom Explosion that deals damage to targets within range.
+  - Additionally, grants Enemies' Nightmare to self and gains 1 High-Power Round.
+  - Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
 - Sub Ability: Attribute Conversion: Toxic; Barrel Wear
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Explosive ATK 103,627; Toxic ATK 238,342; Fire Rate 57; Explosion ATK Drop-off Range 0.5; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.88; Aimed Shot Accuracy 100; Rounds per Magazine 8; Reload Time 2.7; Sprint Speed 800; Movement Speed 410; Movement Speed While Firing 230; Movement Speed While Aiming 140; Pierce 10; Firearm Critical Hit Rate 52; Firearm Critical Hit Damage 1.58; Attribute Status Effect Trigger Rate 40; Launcher Explosion Radius 600; Multi-Hit Damage 0.07
+- Stat Info (Level 100, max): Explosive ATK 103,627; Toxic ATK 238,342; Fire Rate 57; Explosion ATK Drop-off Range 0.5; Weak Point Damage 1; Max Range 15,000; Hip Fire Accuracy 98.88; Aimed Shot Accuracy 100; Rounds per Magazine 8; Reload Time 2.7; Sprint Speed 800; Movement Speed 410; Movement Speed While Firing 230; Movement Speed While Aiming 140; Pierce 10; Firearm Critical Hit Rate 52; Firearm Critical Hit Damage 1.58; Attribute Status Effect Trigger Rate 40; Launcher Explosion Radius 600; Multi-Hit Damage 0.07
 
 ## Raging Light
 - Type: Sniper Rifle | Tier: Transcendent | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211094001
 - Feature: A new firearm that diverted the application of energetic polymer binders, improving them to function as energy polymerization inhibitors. Through an efficient energy circulation system used in Transcendent Weapons, it can eject plasma particles as bright as photons at the target, unleashing a storm of energy around the enemy.
 - Unique Ability: Brand of Light (Unique Ability (no level values in the official library))
-  - On hit with a firearm a certain number of times while aiming, creates Brand of Light.Hitting the Brand of Light deals Additional Damage and inflicts Dispel.Hitting a target with a firearm has a chance to trigger Scattering, to deal damage to targets within range.Landing a Multi-Hit with a firearm triggers Raging Light, that deals damage and bounces between multiple enemies.Each time Raging Light bounces, deals increased Raging Light damage.
+  - On hit with a firearm a certain number of times while aiming, creates Brand of Light.
+  - Hitting the Brand of Light deals Additional Damage and inflicts Dispel.
+  - Hitting a target with a firearm has a chance to trigger Scattering, to deal damage to targets within range.
+  - Landing a Multi-Hit with a firearm triggers Raging Light, that deals damage and bounces between multiple enemies.
+  - Each time Raging Light bounces, deals increased Raging Light damage.
 - Sub Ability: Attribute Conversion: Chill
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 93,021; Chill ATK 204,646; Fire Rate 50; Weak Point Damage 2.1; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 27.77; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.3; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Crush 10; Penetration 120; Firearm Critical Hit Rate 40; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.74
+- Stat Info (Level 100, max): Firearm ATK 93,021; Chill ATK 204,646; Fire Rate 50; Weak Point Damage 2.1; Effective Range (Drop-off start) 5,500; Effective Range (Drop-off end) 8,500; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 27.77; Aimed Shot Accuracy 100; Rounds per Magazine 12; Reload Time 2.3; Sprint Speed 800; Movement Speed 450; Movement Speed While Firing 270; Movement Speed While Aiming 180; Crush 10; Penetration 120; Firearm Critical Hit Rate 40; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 33.33; Multi-Hit Damage 0.74
 
 ## Sparky
 - Type: Handgun | Tier: Transcendent | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211014001
 - Feature: A handgun equipped with a small but powerful ultra-compact charge compression generator. This ultra-compact device can compress the Descendant's Electric Arche energy and discharge it at enemies.
 - Unique Ability: Zap (Unique Ability (no level values in the official library))
-  - Increases Electric Skill Power Amplification Rate while holding a weapon.Electric Skill hits on an enemy inflict Tingle, and firearm hits on an enemy inflicted with Tingle deal Additional Damage to the target.When defeating an enemy with an Electric Skill or firearm, there is a chance to trigger Tingling Shock that deals Additional Damage to targets with high HP within range.Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
+  - Increases Electric Skill Power Amplification Rate while holding a weapon.
+  - Electric Skill hits on an enemy inflict Tingle, and firearm hits on an enemy inflicted with Tingle deal Additional Damage to the target.
+  - When defeating an enemy with an Electric Skill or firearm, there is a chance to trigger Tingling Shock that deals Additional Damage to targets with high HP within range.
+  - Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
 - Sub Ability: Attribute Conversion: Electric; Barrel Wear
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 12,396; Electric ATK 22,310; Fire Rate 705; Weak Point Damage 1.75; Effective Range (Drop-off start) 1,500; Effective Range (Drop-off end) 3,500; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 78.88; Aimed Shot Accuracy 83.33; Rounds per Magazine 16; Reload Time 1.1; Sprint Speed 800; Movement Speed 700; Movement Speed While Firing 700; Movement Speed While Aiming 700; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.65
+- Stat Info (Level 100, max): Firearm ATK 12,396; Electric ATK 22,310; Fire Rate 705; Weak Point Damage 1.75; Effective Range (Drop-off start) 1,500; Effective Range (Drop-off end) 3,500; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 78.88; Aimed Shot Accuracy 83.33; Rounds per Magazine 16; Reload Time 1.1; Sprint Speed 800; Movement Speed 700; Movement Speed While Firing 700; Movement Speed While Aiming 700; Pierce 10; Firearm Critical Hit Rate 3; Firearm Critical Hit Damage 1.2; Attribute Status Effect Trigger Rate 8.33; Multi-Hit Damage 0.65
 
 ## Storm Cage
 - Type: Submachine Gun | Tier: Transcendent | Rounds: General Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211044001
 - Feature: The first Transcendent Weapon to be successfully developed. It was created as part of a project to apply the know-how accumulated from Ultimate Equipment to the Thunder Cage, and it succeeded in trapping electrical energy even more powerful than the original Thunder Cage can.
 - Unique Ability: Lightning Storm (Unique Ability (no level values in the official library))
-  - On hit with a firearm has a chance to trigger Electric Shockwave that deals damage to nearby targets.Landing a Firearm Critical Hit a certain number of times triggers Lightning Burst that deals damage to the target.When defeating an enemy or hitting a certain number of times with a firearm, has a chance to create Lightning Storm at the target's location, to deal damage to targets within range.
+  - On hit with a firearm has a chance to trigger Electric Shockwave that deals damage to nearby targets.
+  - Landing a Firearm Critical Hit a certain number of times triggers Lightning Burst that deals damage to the target.
+  - When defeating an enemy or hitting a certain number of times with a firearm, has a chance to create Lightning Storm at the target's location, to deal damage to targets within range.
 - Sub Ability: Attribute Conversion: Electric
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 11,318; Electric ATK 23,767; Fire Rate 810; Weak Point Damage 1.2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 66.66; Aimed Shot Accuracy 74.44; Rounds per Magazine 26; Reload Time 1.4; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.1
+- Stat Info (Level 100, max): Firearm ATK 11,318; Electric ATK 23,767; Fire Rate 810; Weak Point Damage 1.2; Effective Range (Drop-off start) 2,300; Effective Range (Drop-off end) 4,300; ATK Drop-off Modifier 0.3; Max Range 15,000; Hip Fire Accuracy 66.66; Aimed Shot Accuracy 74.44; Rounds per Magazine 26; Reload Time 1.4; Sprint Speed 800; Movement Speed 600; Movement Speed While Firing 600; Movement Speed While Aiming 600; Burst 10; Firearm Critical Hit Rate 20; Firearm Critical Hit Damage 2; Attribute Status Effect Trigger Rate 4; Multi-Hit Damage 0.1
 
 ## Unleashed Instinct
 - Type: Shotgun | Tier: Transcendent | Rounds: High-Power Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211034001
 - Feature: A firearm designed to reverse the function of Gley's Ultimate Equipment, causing energy to be released from within the enemy's body. In particular, it incorporates a unique technology that induces the release of blood from the enemy's body and then tracks or detonates it.
 - Unique Ability: Bloody Hunt (Unique Ability (no level values in the official library))
-  - As the Reload Time Modifier increases, increases Load Capacity.Dealing Damage has a chance to inflict Excessive Bleeding on the enemy per Shotgun shot.When defeating or damaging an enemy inflicted with Excessive Bleeding or Bleed, deals Explosion Damage around that enemy.Inflicting Excessive Bleeding grants Hunting Instinct to self.Hunting Instinct increases Movement Speed and deals Additional Damage when attacking with a Shotgun.When an enemy inflicted with Excessive Bleeding is nearby, refreshes the duration of Hunting Instinct.
+  - As the Reload Time Modifier increases, increases Load Capacity.
+  - Dealing Damage has a chance to inflict Excessive Bleeding on the enemy per Shotgun shot.
+  - When defeating or damaging an enemy inflicted with Excessive Bleeding or Bleed, deals Explosion Damage around that enemy.
+  - Inflicting Excessive Bleeding grants Hunting Instinct to self.
+  - Hunting Instinct increases Movement Speed and deals Additional Damage when attacking with a Shotgun.
+  - When an enemy inflicted with Excessive Bleeding is nearby, refreshes the duration of Hunting Instinct.
 - Sub Ability: Attribute Conversion: Fire
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 35,233; Fire ATK 63,420; Fire Rate 100; Shell Capacity 9; Weak Point Damage 1; Effective Range (Drop-off start) 1,000; Effective Range (Drop-off end) 2,300; ATK Drop-off Modifier 0.15; Max Range 15,000; Hip Fire Accuracy 13.33; Aimed Shot Accuracy 46.66; Rounds per Magazine 8; Reload Time 1.4; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Burst 10; Firearm Critical Hit Rate 2; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 9.2; Multi-Hit Damage 0.25
+- Stat Info (Level 100, max): Firearm ATK 35,233; Fire ATK 63,420; Fire Rate 100; Shell Capacity 9; Weak Point Damage 1; Effective Range (Drop-off start) 1,000; Effective Range (Drop-off end) 2,300; ATK Drop-off Modifier 0.15; Max Range 15,000; Hip Fire Accuracy 13.33; Aimed Shot Accuracy 46.66; Rounds per Magazine 8; Reload Time 1.4; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Burst 10; Firearm Critical Hit Rate 2; Firearm Critical Hit Damage 1.1; Attribute Status Effect Trigger Rate 9.2; Multi-Hit Damage 0.25
 
 ## Volcanic Heart
 - Type: Scout Rifle | Tier: Transcendent | Rounds: Impact Rounds
 - Official page: https://tfd.nexon.com/en/library/weapons/211084001
 - Feature: A firearm created by fabricating and implanting a micro-core that mimics the mechanisms of the Colossi Infernal Walker and Molten Fortress. To control the heat, technology used in Transcendent Weapons was integrated into its energy circulation system to prevent the barrel from melting.
 - Unique Ability: Pulsating Ember (Unique Ability (no level values in the official library))
-  - Increases Fire Skill Power Amplification Rate while holding a weapon.Fire Skill hits on an enemy inflict Pulsating Ember, and firearm hits on an enemy inflicted with Pulsating Ember deal Additional Damage to the target.When defeating an enemy with a Fire Skill or firearm, there is a chance to grant Magma to self that deals Fire Damage to nearby enemies.Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
+  - Increases Fire Skill Power Amplification Rate while holding a weapon.
+  - Fire Skill hits on an enemy inflict Pulsating Ember, and firearm hits on an enemy inflicted with Pulsating Ember deal Additional Damage to the target.
+  - When defeating an enemy with a Fire Skill or firearm, there is a chance to grant Magma to self that deals Fire Damage to nearby enemies.
+  - Additional Damage dealt by this Transcendent Effect does not affect other skill effects.
 - Sub Ability: Attribute Conversion: Fire; Barrel Wear
 - Note: Stats from the Nexon Open API metadata (the official library page shows no stat block for Transcendent weapons; values as rounded by the API).
-- Stat Info (Level 100): Firearm ATK 24,974; Fire ATK 54,943; Fire Rate 166; Weak Point Damage 1.85; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.33; Aimed Shot Accuracy 92.22; Rounds per Magazine 30; Reload Time 2.7; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Crush 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 1.55; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.065
+- Stat Info (Level 100, max): Firearm ATK 24,974; Fire ATK 54,943; Fire Rate 166; Weak Point Damage 1.85; Effective Range (Drop-off start) 4,000; Effective Range (Drop-off end) 7,000; ATK Drop-off Modifier 0.6; Max Range 15,000; Hip Fire Accuracy 83.33; Aimed Shot Accuracy 92.22; Rounds per Magazine 30; Reload Time 2.7; Sprint Speed 800; Movement Speed 550; Movement Speed While Firing 370; Movement Speed While Aiming 280; Crush 10; Firearm Critical Hit Rate 50; Firearm Critical Hit Damage 1.55; Attribute Status Effect Trigger Rate 12.5; Multi-Hit Damage 0.065
 
 ## Contact
 - Name: Christian Grigoriadis (Artist Name: Zagathou)
@@ -745,9 +788,11 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - Freyna.ORG: https://freyna.org/
 - Modules: https://modules.freyna.org/
 - Weapons: https://weapons.freyna.org/
+- Raven: https://raven.freyna.org/
 - descendant.gg: https://descendant.gg/
 
+All values: max level (Descendants Lv 40, weapons Lv 100 at 4 stars / Unique Ability Level 4, modules at max enhancement level).
 These webpages are optimized for Non-Agentic Artificial Intelligence and easy to read.
 All game-related content © Nexon (https://tfd.nexon.com/)
 Unofficial fan site – not affiliated with or endorsed by Nexon. The First Descendant is a trademark of Nexon.
-Last Updated: 30.09.2026
+Last Updated: 01.10.2026
