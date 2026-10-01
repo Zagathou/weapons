@@ -783,6 +783,7 @@ It is said to be Blair's favorite weapon since it was made using parts of his ne
 - E-Mail: xelotath@outlook.de
 - Session App ID: 055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173
 - About: https://zagathou.github.io/zagathou/
+- GitHub: https://github.com/Zagathou
 
 ## TFD Pages
 - Freyna.ORG: https://freyna.org/
